@@ -44,3 +44,8 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - [P] Twelve Kalis: Wenta ch9 in torella-volume + ro-tantraloka-twelve-kalis RO. Cross-ref with E08.
 - [P] Torella apoha + memory: app1/app2 in torella-volume. For epistemology beats only (do not import into Sauh doctrine).
 - Verdict: scholar layer FILLED for Sauh (Torella IS + Ratie IS + Twelve Kalis). Matanga/Navatma still SILENT (unchanged).
+
+## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
+- [P] Ratie Hulin review (2012, DOI 10.5167/uzh-78301) — French review of Le Soi et l'Autre with key quotes: "la Pratyabhijñā... cesse de se considérer comme un être limité... nous sommes Śiva" (we are Śiva) + "svātantryavāda ou doctrine de la liberté" (doctrine of freedom). Translate for the essay's self-recognition beat.
+- [P] Torella IPKV PDF: gianfrancobertagni.it/materiali/tantra/torellaisvara.pdf — critical edition + annotated translation of Utpaladeva's IPK with Vr̥tti. Free PDF, cite properly.
+- [P] MacCracken, "Recognizing Recognition" (semanticscholar PDF) — Utpaladeva's Sambandhasiddhi analysis. Key quote: "How could anyone not-insensible offer proof... of the knower, doer, self, supreme lord... this recognition is demonstrated by means of making visible Its śaktis." Cite: MacCracken 2020.

@@ -41,3 +41,7 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - [V-MARK] Vyomavyapin 81 as his gloss (transcript timestamp per SPINE) + paddhati-as-liturgy line is Dyczkowski-the-translator's own TA rendering (ahnika-01.txt). Same hand twice — strongest case on the slate.
 - [S] Raurava last chapter: no Mark voice, no print held. If the Burn beat needs Raurava, it cannot use this effect — keep it Mark-narration-only or fetch Bhatt ed.
 - Verdict: effect HOLDS for thread-rite framing; Burn beat stays voice-only until Raurava lands.
+
+## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
+- [P] KJN scan on archive.org: "Kaula Jnana Nirnaya Scan 2 Calcutta Sanskrit Series" — full Devanagari scan of Bagchi ed. with English summaries. URL: archive.org/stream/KaulaJnanaNirnayaScan2CalcuttaSanskritSeries_201901. Use for cross-referencing the Bagchi Muktabodha e-text against the printed edition.
+- [P] Google Books: Kaulajnana-nirnaya of the school of Matsyendranatha (Prācya Prakāśana 1986, Bagchi/Magee, 229pp) — English summaries in the printed volume. Cite: books.google.com/books?id=O0sdAAAAMAAJ.

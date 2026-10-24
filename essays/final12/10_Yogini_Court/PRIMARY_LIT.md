@@ -59,3 +59,8 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
   - "akulanca kulam jnatva kulam devya subhamini" (12/6) — knowing akula and kula = Kula of the auspicious goddess.
 - Colophon: "iti jnananirnaye mahayoginikaule srimatsyendrapadavata(re)" — Matsyendra as avatar in the yogini-Kula lineage, repeated at every patala end.
 - No English translation held — Sanskrit only. Translation: cite+buy White (pointers unchanged).
+
+## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
+- [P] KJN patala 8/14: "pūjayet tāṃ catuḥṣaṣṭiṃ" (worship the 64) — the 64-yogini verse is in the Muktabodha e-text. Sanskrit held (/tmp/litrev/kulajnanirnaya.txt). Translation: cite+buy Bagchi/Magee 1986.
+- [P] KJN patala 8/17: "vārāṇasyāṃ prayāgantu caritraikāmrakantathā" — Varanasi + Kashi references in the KJN. Relevant to E10's Yogini-court-as-Kashi material.
+- [P] KJN patala 18: full abhiṣeka (initiation) procedure — "raktena pūrayed raktaṃ" (fill red with red). Sanskrit held. Translation: cite+buy.

@@ -39,3 +39,8 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - [P] Chandogya sun-door: GRETIL mula-with-Shankara comm held (chandogya.txt, 505KB, includes Ch8). Sun-door passage (yad vava suryasya gocaram, Ch.8.6.1) is present in the Ch8 section. Griffith SBE 1.6.51-57 translation is PD on sacred-texts (fetch on demand, URL: sacred-texts.com/hin/upan/sbe01/sbe01_103.htm). Cite: Max Muller SBE 1.
 - [P] Raurava: Bhatt ed. vol.2 on disk (patala 46 = antyesti/funeral rite for initiates — verbatim French intro at position 35820: "l'entree de lame par la pratique du yoga dans la realite supreme, Siva, est le dernier rituel"). Vyomavyapimantra/padamantra (patala 10 of Sangraha) is in vol.1 — NOT on disk. Pointer: N.R. Bhatt, Rauravagama vol.1, IFP Pondicherry 1972, patala 10.
 - Verdict: RV 10.10 FILLED (Sanskrit + Griffith PD). Chandogya POINTER precise (GRETIL + Muller). Raurava PARTIAL (vol.2 held, vol.1 patala 10 needed).
+
+## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
+- [V] RV 10.10 full text now banked: primary/E02_rv1010_yama_yami.md (Griffith PD + Aufrecht Sanskrit). 14-verse dialogue. Key line (10.10.1): "FAIN would I win my friend to kindly friendship" (Griffith).
+- [P] Griffith full translation: 14 verses, all held. Yama refuses Yami's union — "the spies of the Gods... never stop, never close their eyes" (10.10.8). Use for the "observed dying" frame: even death's first king is watched.
+- [P] Chandogya sun-door: GRETIL mula+Shankara comm held (chandogya.txt, 505KB). The dvāre (door) passages are in Ch.8. Griffith SBE 1.6.51-57 = PD pointer (sacred-texts URL logged in INVENTORY).

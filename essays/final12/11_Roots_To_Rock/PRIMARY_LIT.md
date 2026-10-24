@@ -55,3 +55,7 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
   - "akulanca kulam jnatva kulam devya subhamini" (12/6) — knowing akula and kula = Kula of the auspicious goddess.
 - Colophon: "iti jnananirnaye mahayoginikaule srimatsyendrapadavata(re)" — Matsyendra as avatar in the yogini-Kula lineage, repeated at every patala end.
 - No English translation held — Sanskrit only. Translation: cite+buy White (pointers unchanged).
+
+## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
+- [P] Bagchi/Magee 1986 (Prācya Prakāśana, 229pp) — English summaries of KJN + Matsyendra school traditions. Google Books preview: books.google.com/books?id=O0sdAAAAMAAJ. Use for the Roots-to-Rock lineage framing (English summaries + tradition history).
+- [P] KJN colophon repeated at every patala end: "iti jñānanirṇaye mahayoginikaule srimatsyendrapadavata(re)" — Matsyendra as avatar in the yogini-Kula lineage. Sanskrit held. This IS the lineage claim the Roots essay needs.

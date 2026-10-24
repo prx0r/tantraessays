@@ -52,3 +52,8 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: SuttaCentral DN2 six-teacher summary (in-repo primary/E01_sramana_six.md) + BU 3.2.13 secret (in-repo). Effect: his gloss OVER the canon list — label the list as Nikaya/SuttaCentral on screen.
 - [S] No Mark-voice on Gitarthasangraha intro or PH vimar impair sutras — those stay cite+buy pointers, never voiced.
 - Verdict: effect HOLDS for the objection beat.
+
+## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
+- [P] RV 10.10 web commentary: JyotishGyan (2026) gives the Yama-Yami dialogue context — "earliest scriptural rejection of incest... establishing that moral law transcends impulse." Useful for framing the essay's Vedic-milieu beat. Cite: jyotishgyan.co.in/blog/yama-yami-bhai-dooj-hindu-history.
+- [P] Ambedkar, Riddles in Hinduism (1987, Vol.4 pp.41-43) — quotes RV 10.10 verses in his own translation. Public domain India. Useful as a contrasting scholarly voice on the Vedic-milieu beat.
+- [P] Wendy Doniger, On-Hinduism (vedkabhed.com PDF) — kathenotheism section quotes RV 1.164.46 "The wise speak of what is One in many ways" — direct parallel to the essay's shared-ontology beat. Cite: Doniger, On-Hinduism.

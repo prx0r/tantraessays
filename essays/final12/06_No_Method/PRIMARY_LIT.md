@@ -43,3 +43,7 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: MVUT 2.19-24 Sanskrit (held, GRETIL) + TĀ Ahnika 1 three-means (Dyczkowski trans, his own hand) + VB #53/#136 fire (Lakshmanjoo trans — other hand, label it).
 - This is the STRONGEST pairing on the slate: his lecture quotes the same MVUT passage the essay banks. Stage lecture audio under the Sanskrit card.
 - Verdict: effect HOLDS at full strength. No fetch needed.
+
+## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
+- [P] Hulin review (2012) on Ratie — key line for anupaya beat: "le Soi, sans se voiler réellement, joue réellement à se voiler" (the Self, without truly veiling itself, truly plays at veiling itself). Ratie p.562. Directly on the no-method paradox.
+- [P] Torella Introduction (motilalbanarsidass.com) — "Pratyabhijna... constitutes one of the highest and most original moments of Indian thought." Good epigraph for the essay's authority claim. Cite: Torella/Baumer (eds), Utpaladeva, Philosopher of Recognition.
