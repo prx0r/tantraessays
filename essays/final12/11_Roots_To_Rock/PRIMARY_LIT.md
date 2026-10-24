@@ -33,3 +33,12 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - [S] KJnana corpus, Akula Vira, Urmikaularnava, Kapalika sadhana, Vasugupta discovery narrative: no Mark voice except the Roots Matsyendra material — keep legend-framing, label as tradition-history.
 - [P] Flood Tantric Body (owned PDF/txt, deitybody corpus) + ESSAY-ABHINAVA-VS-UTPALADEVA (recognition dir): history guardrails, cite only.
 - Verdict: effect HOLDS for Matsyendra/Kula origin. Rest stays flagged tradition-narrative.
+
+## Corpus update: fetch round (local-only, 2026-10-24)
+### Scholars update
+- [P] Torella IPK (gochema/library/recognition/primary/torella_ipk.txt): recognition epistemology for the Roots framing (how knowing grounds lineage).
+- [P] Sanderson on Kula: not directly on disk as a standalone text. INVENTORY pointer stands (cite+buy). No quote held.
+- [P] Flood Tantric Body (owned PDF/txt at /root/deitybody/corpus/primary/): theoretical warrant for lineage/history framing — cite, do not quote long.
+- [S] KJnana corpus, Akula Vira, Urmikaularnava: still SILENT. Scholar pointers do not fill rare Matsyendra texts.
+- [P] Ratie: not on Roots material. Do not force-fit.
+- Verdict: scholar layer PARTIAL (Torella IPK + Flood). KJnN corpus still the main gap.

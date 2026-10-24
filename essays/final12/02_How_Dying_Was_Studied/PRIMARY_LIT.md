@@ -30,3 +30,12 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - [P] Netra Tantra mrtyujit rites as the Tantric parallel to observed dying (pointer only — no Netra text on disk; Muktabodha/GRETIL fetch before any screen claim).
 - [P] RO initiation sadyahsamutkrama (dying-person initiation, TA 24/1-24ab): the Tantric answer to what you DO at death — contrast material, not proof.
 - Verdict: effect HOLDS for the Upanishadic core. Tantric-dying parallel needs Netra text first.
+
+## Corpus update: fetch round (local-only, 2026-10-24)
+### RV 10.10 (Yama/Yami) — ACQUIRED
+- [V] Sanskrit: GRETIL Aufrecht ed. rv10_skt.htm (held at /tmp/litrev/). Key verses: 10.10.01-14. Full Sanskrit with pada markers.
+- [V] Griffith trans (PD 1896, sacred-texts rv10010.htm — held at /tmp/litrev/rv1010_griffith.htm). "FAIN would I win my friend to kindly friendship" (10.10.1) onward. Cite: Ralph T.H. Griffith, Rig-Veda Book 10, Hymn X (1896).
+- ACTION: bank as primary/E02_rv1010_yama_yami.md (both texts + cite line).
+- [P] Chandogya sun-door: GRETIL mula-with-Shankara comm held (chandogya.txt, 505KB, includes Ch8). Sun-door passage (yad vava suryasya gocaram, Ch.8.6.1) is present in the Ch8 section. Griffith SBE 1.6.51-57 translation is PD on sacred-texts (fetch on demand, URL: sacred-texts.com/hin/upan/sbe01/sbe01_103.htm). Cite: Max Muller SBE 1.
+- [P] Raurava: Bhatt ed. vol.2 on disk (patala 46 = antyesti/funeral rite for initiates — verbatim French intro at position 35820: "l'entree de lame par la pratique du yoga dans la realite supreme, Siva, est le dernier rituel"). Vyomavyapimantra/padamantra (patala 10 of Sangraha) is in vol.1 — NOT on disk. Pointer: N.R. Bhatt, Rauravagama vol.1, IFP Pondicherry 1972, patala 10.
+- Verdict: RV 10.10 FILLED (Sanskrit + Griffith PD). Chandogya POINTER precise (GRETIL + Muller). Raurava PARTIAL (vol.2 held, vol.1 patala 10 needed).

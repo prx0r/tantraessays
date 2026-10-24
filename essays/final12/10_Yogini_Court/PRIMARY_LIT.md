@@ -38,3 +38,11 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: yoginikule Sanskrit (GRETIL KubjT 23.71-72) — his court-talk over the root word. Label root as Kubjikamata ed.
 - [S] Shatá-3 rite, 8 families, 64-count: no Mark voice, no print. Cannot use the effect; keep counts off screen.
 - Verdict: effect HOLDS for the court framing; lists stay out.
+
+## Corpus update: fetch round (local-only, 2026-10-24)
+### Scholars update
+- [P] Wenta ch9 (twelve kalis, torella-volume): Krama goddess material — directly relevant to Yogini Court.
+- [P] Wallis "Secret Teachings of the Yoginis" (Hareesh blog link, verified on every recognition page footer): pointer to acquire. NOT a quote — the blog is Wallis's own popularization, cite carefully.
+- [P] Ratie IS ch7 (recognition/torella-volume/ch7_ratie_isvarasiddhi.txt): ISvarasiddhi on goddess/energy — one-paragraph pointer only.
+- [S] All three named lists (Shatka rite, 8 families, 64-count) still SILENT. Scholar pointers do not fill these.
+- Verdict: scholar color ADDED (Wenta + Ratie + Wallis pointer). Lists still SILENT. Recordable only on Mark + yoginikule verse.

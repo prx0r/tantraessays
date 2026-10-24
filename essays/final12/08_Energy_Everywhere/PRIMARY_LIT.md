@@ -43,3 +43,10 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: Urmi-as-spanda synonym line (Ahnika 4 verses, Dycz) + ahamvimarsa passage (Doctrine of Vibration, Dycz) + Spanda Karika volume (Dycz trans, his hand throughout).
 - Almost entirely same-hand: his lecture + his translations. The closest the project gets to one continuous voice.
 - Verdict: effect HOLDS at full strength.
+
+## Corpus update: fetch round (local-only, 2026-10-24)
+### Scholars update
+- [P] Wenta ch9 (twelve kalis) in torella-volume: academic treatment of the Twelve Kalis — pairs with Twelve Kalis RO. Cite, do not copy.
+- [P] Spanda-Karika four commentaries volume already held (Dyczkowski trans, /tmp/litrev/dyczkowski/spandakarika.txt). The Kshemaraja SpandaSamdoha commentary is the scholarly backbone for the pulse beat.
+- [P] Ratie + Torella: not directly on Spanda pulse; keep as IPVV-adjacent pointers only. Do not force-fit.
+- Verdict: scholar layer FILLED for pulse (Dyczkowski + Kshemaraja commentaries + RO). Kauliki-50 still SILENT (unchanged).

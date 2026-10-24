@@ -36,3 +36,11 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: Singh PTV amrtabija exposition (print = Singh's hand, NOT Mark's) + GRETIL Paratrimsika root Sanskrit + Kubjika Aim mantras (Sanskrit, KubjT 5.1-5.3/5.16).
 - Honesty note for the cut: voice is Mark's, print is Singh's/GRETIL's. Stage it as his gloss OVER their text — label the text block (Singh/Motilal; GRETIL ed.), never imply he translated it on screen.
 - Verdict: effect HOLDS with attribution discipline. Missing (Matanga/Navatma) cannot use this effect at all.
+
+## Corpus update: fetch round (local-only, 2026-10-24)
+### Scholars update (recognition + tantrik scholarship)
+- [P] Torella IPK translation held: gochema/library/recognition/primary/torella_ipk.txt + recognition/torella-volume/ (intro, Isvarasiddhi ch7, other-streams ch6, apoha, memory). Use for Pratyabhijna-hrdaya vimarsa sutras pointer (INVENTORY: cite+buy — now we have Torella's IS translation in-house).
+- [P] Ratie: Le Soi et l'Autre held (PDF + txt at recognition/books/), plus RATIE-LITERATURE-REVIEW.md, RATIE-EXCAVATION-EN.md, RATIE-BREAKDOWN.md, ch7_ratie_isvarasiddhi.txt. The Ratie essay on ISvarasiddhi IS the scholarly commentary for the Sauh/ISvimarsha beats — cite with page nos.
+- [P] Twelve Kalis: Wenta ch9 in torella-volume + ro-tantraloka-twelve-kalis RO. Cross-ref with E08.
+- [P] Torella apoha + memory: app1/app2 in torella-volume. For epistemology beats only (do not import into Sauh doctrine).
+- Verdict: scholar layer FILLED for Sauh (Torella IS + Ratie IS + Twelve Kalis). Matanga/Navatma still SILENT (unchanged).

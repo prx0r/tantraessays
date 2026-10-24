@@ -42,3 +42,12 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: Tantrasara ch.11 grace argument + Sambhunatha verse (Wallis trans — other hand, label it) + Para Trimshika grace verses (GRETIL root Sanskrit).
 - [S] Shivastotravali (Bailley): no Mark voice, no print. Stava transcript exists (recitation only, no PDF) — singable, not quotable as text; keep audio-only or re-acquire.
 - Verdict: effect HOLDS for the paradox frame (his voice) over grace texts (others' hands, labeled).
+
+## Corpus update: fetch round (local-only, 2026-10-24)
+### Scholars update
+- [P] Torella ch7 (Isvarasiddhi) in torella-volume: the academic commentary on ISvimarsha-as-grace. Directly relevant to the devotion paradox (knowing = loving).
+- [P] Ratie ch7 (same passage, different hand): his IS translation + commentary. Both Torella and Ratie on the same root text = scholarly triangulation.
+- [P] Baumer hymns ch2 + Rastogi aesthetics ch5 in torella-volume: devotional hymn analysis — for the Shivastotravali context beats.
+- [S] Shivastotravali text: still SILENT (Bailley trans = cite+buy). Scholar pointers do not fill this.
+- [S] Bhairava Stava PDF: still not on disk (recitation transcript held). Scholar pointers do not fill this.
+- Verdict: scholar layer FILLED for grace/devotion (Torella + Ratie + Baumer). Shivastotravali + Stava still need text acquisitions.
