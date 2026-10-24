@@ -1,33 +1,19 @@
 {
   "essay": "04_Why_You_Stay_Alive",
   "target_min": {
-    "A": 15,
-    "B": 30,
-    "C": 45
+    "A": 18,
+    "B": 32,
+    "C": 40
   },
   "kept_sec_cores": 62,
-  "keeps": [
-    {
-      "start": 1044,
-      "end": 1055,
-      "grade": "A"
-    },
-    {
-      "start": 630,
-      "end": 652,
-      "grade": "A"
-    },
-    {
-      "start": 4050,
-      "end": 4079,
-      "grade": "A"
-    }
-  ],
+  "keeps": 5,
   "audios": [
     "audio/Karma_and_rebirth.mp3",
     "audio/Vyomavyapin_mantra.mp3"
   ],
   "timebase": "srt-native (=audio, no YT/DS map needed)",
   "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
-  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C",
+  "A_clips": 5,
+  "note": "restructured v2: answer\u2192root\u2192trace\u2192scale\u2192instruction"
 }

@@ -1,43 +1,11 @@
-# 04 Why You Stay Alive
+# 04 Why You Stay Alive — SPINE (index; ESSAY_A.md is the structure)
 
-His words = structure. Brackets = your build. Clip sources retained for product.
+Order (final v2): prarabdha (answer) → root removed → faint trace → accretion (scale) → Karma-bhumi (instruction → Essay 5).
 
-## vyoma-07 — prarabdha karma kept back so you stay alive
-AUDIO: audio/Vyomavyapin_mantra.mp3
-TRANSCRIPT: transcripts/Vyomavyapin_mantra.txt + .srt
-TIMESTAMP: 00:17:24,680 --> 00:17:35,140
-EXCAVATION: excavations/vyomavyapin_mantra.md
+1. vyoma-07 — prarabdha kept back | Vyomavyapin_mantra.mp3 00:17:24-->00:17:35
+2. karma-13a — root removed (txt 307-309) | Karma_and_rebirth.mp3 ~01:08:40-->01:10:00
+3. karma-13b — faint trace (txt 313-320) | Karma_and_rebirth.mp3 ~01:10:00-->01:12:00
+4. vyoma-02 — accretion, most after death | Vyomavyapin_mantra.mp3 00:10:30-->00:10:52
+5. karma-12 — Karma-bhumi, only here you act | Karma_and_rebirth.mp3 01:07:30-->01:07:59
 
-> "So when you're initiated, the Guru would keep a certain amount of karma he wouldn't remove, it's called Prarabda, this karma which is on the way of working itself out."
-
-[BUILD: context / primary lit / visual / your theory]
-
-## vyoma-02 — liberation by accretion, most after death
-AUDIO: audio/Vyomavyapin_mantra.mp3
-TRANSCRIPT: transcripts/Vyomavyapin_mantra.txt + .srt
-TIMESTAMP: 00:10:30,000 --> 00:10:52,360
-EXCAVATION: excavations/vyomavyapin_mantra.md
-
-> "By accretion. And he would also accept that some people may not develop that far. So he made a distinction between those who would get liberation after you die and those who now."
-
-[BUILD: context / primary lit / visual / your theory]
-
-## karma-12 — Karma-bhumi / only here you can act
-AUDIO: audio/Karma_and_rebirth.mp3
-TRANSCRIPT: transcripts/Karma_and_rebirth.txt + .srt
-TIMESTAMP: 01:07:30,000 --> 01:07:59,980
-EXCAVATION: excavations/karma_and_rebirth.md
-
-> "it's only here if you manage to be reborn in this earth world and especially here in Jambudvipa and Bharat Varsha of Jambudvipa, then it's called Karma Bhoomi. Because in the place of Karma, this is where you can act to create positive Karma."
-
-[BUILD: context / primary lit / visual / your theory]
-
-## karma-13 — mala as substance, levels to Shiva
-AUDIO: audio/Karma_and_rebirth.mp3
-TRANSCRIPT: transcripts/Karma_and_rebirth.txt + .srt
-TIMESTAMP: ~01:08:40-01:22:00 (txt 295-320)
-EXCAVATION: excavations/karma_and_rebirth.md
-
-> "initiation... is the removal of impurity and with that fundamental impurity is removed karma and maya... beyond Maya... pure reality levels... tiny latent impression... all that separates you from finally attaining Shiva."
-
-[BUILD: context / primary lit / visual / your theory]
+See ESSAY_A.md for verbatim quotes + PLAIN lines. B/C in ESSAY_B/C.md.

@@ -1,7 +1,7 @@
 # 04_Why_You_Stay_Alive — speakers
 
-MARK (archive, unchanged): 4 clips, ESSAY_A.md timestamps. No Pali cleanup (Mark keeps Sanskrit; plain voice handles English).
+MARK (archive, unchanged): 5 beats, 6 quote blocks, ESSAY_A.md timestamps. No Sanskrit spoken as doctrine (Prarabdha/Samanya kept as cited terms, plain voice glosses).
 
-HUMAN (you): 1 cold open ~40s (what it answers + why now) + 3 bridges ~15s each where FLOW jumps lectures. Total ~2-3 min raw. No Pali verses (Mark readings stand).
+HUMAN (you): 1 cold open ~40s (why didn't initiation kill him?) + 4 bridges ~15s (retention→root→trace→scale→instruction). Total ~2-3 min raw. No Pali/initiatory mantra spoken aloud (use names only, point to PDF/paddhati).
 
-PLAIN VOICE (key): trika_key.json map only — hears Sanskrit term in Mark clip, says mapped English once per essay first-use. Never sentences.
+PLAIN VOICE (key): trika_key.json — prarabdha→already-ripening karma kept; mala→impurity as objectivity; Karma-bhumi→only-here-you-act; accretion→ripening life by life. First hearing per essay only.
