@@ -1,10 +1,10 @@
 # Essay 6 Version B — contains all of A + depth
 
-A plays unchanged (4 clips).
+A plays unchanged (4 clips, ESSAY_A.md). Then add:
 
-## 5. anuttara-10 — means are not useless (Dzogchen warning)
-Radical "do nothing, bask like an old man in the sun" misread corrected: beyond-means does not mean means are useless. Japa works. Practice at all costs.
-## 6. anuttara-11 — thought-free requisite for Samayin
-Even the common initiate must be thought-free during rite. Inner dimension (kramahata) fosters flight; mantra repeated rising through sound stages, dissolved at mind's end.
+## 5. means are not useless (anuttara-10, the Dzogchen correction)
+AUDIO: audio/anuttara.mp3 | 00:47:30,769 --> 00:47:42,449 | transcripts/anuttara.txt + .srt
+> "very wrongly being misled by what he calls radical Tsogchen. And radical Tsogchen teaches the doctrine of the old man basking in the sun."
+PLAIN: He names the misread directly — "do nothing, bask like an old man" is not what beyond-means means. Practice at all costs stays; only the ladder gets put down at the top.
 
-Total B: A 22m + depth ~10m = ~32m. A⊂B.
+Total B: A 4 beats + depth 1 beat = 5 unique clips. A⊂B. No chant. PDFs for Sanskrit only.
