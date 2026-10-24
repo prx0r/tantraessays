@@ -32,3 +32,16 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: Ahnika 1 trans of the same ranking (Dyczkowski's own hand) + Matsyendra 4th-age passage (same). Same hand twice — seamless.
 - [S] TĀ 29 rite proper, Jayadratha Yamala, Kularatnamala: no Mark voice, no print. These beats CANNOT use the effect — Mark-narration-only until fetched.
 - Verdict: effect HOLDS for ranking/origin; rite content stays voice-only.
+
+## KJnN fetched from Muktabodha (local-only, 2026-10-24)
+- [V] Kaulajnanirnaya (Muktabodha M00027, Bagchi ed., Dyczkowski's staff input, CC BY-NC 4.0, 94KB Sanskrit at /tmp/litrev/kulajnanirnaya.txt).
+- Key verses for this essay:
+  - "astadasavidham devi jnananca kulagocare" (1/1) — 18 types of knowledge, all within Kula.
+  - "sristisamharanyayena kuladharam upavarnitam" — Kula doctrine explained as creation-and-destruction.
+  - "kulalaksam mahesana atmasamvittipurvakam" — Kula sign = self-awareness (atmasamvitti), BEFORE anything else.
+  - "prapancarahitam sastram prapancarahito guruh" (7/26) — scripture free of elaboration; guru free of elaboration.
+  - "gurupujavidhanantu sarvam samksepato vada" (8/3) — all guru-worship procedure, explained concisely.
+  - "utpattipralayancaiva akula-kula-varjitam" (14/97) — arising and dissolution, beyond akula-kula.
+  - "akulanca kulam jnatva kulam devya subhamini" (12/6) — knowing akula and kula = Kula of the auspicious goddess.
+- Colophon: "iti jnananirnaye mahayoginikaule srimatsyendrapadavata(re)" — Matsyendra as avatar in the yogini-Kula lineage, repeated at every patala end.
+- No English translation held — Sanskrit only. Translation: cite+buy White (pointers unchanged).
