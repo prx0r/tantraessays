@@ -45,3 +45,7 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
   - "akulanca kulam jnatva kulam devya subhamini" (12/6) — knowing akula and kula = Kula of the auspicious goddess.
 - Colophon: "iti jnananirnaye mahayoginikaule srimatsyendrapadavata(re)" — Matsyendra as avatar in the yogini-Kula lineage, repeated at every patala end.
 - No English translation held — Sanskrit only. Translation: cite+buy White (pointers unchanged).
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [V] TL vol11, Appendix E to Chapter 32 (Jayadratha bhairavamudrāvidhi, v.657 block): "Full of meat and wine, blissful, without offering sacrifice (yāga), he should not disṣplay it [OCR]. The hero makes it in a cremation ground, located in the centre of the altar. In an hour and a half, that lord of adepts will become a skyfarer, endowed with all lordship like the leader of the Bhairavas."
+- Use: Kula-fundamentals beat (sources-05 meat/wine) + cremation-ground link to E11. Cite: Dyczkowski trans (MB), Jayadratha mudrā-vidhi; local-only, never commit.

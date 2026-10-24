@@ -45,3 +45,9 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 ## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
 - [P] KJN scan on archive.org: "Kaula Jnana Nirnaya Scan 2 Calcutta Sanskrit Series" — full Devanagari scan of Bagchi ed. with English summaries. URL: archive.org/stream/KaulaJnanaNirnayaScan2CalcuttaSanskritSeries_201901. Use for cross-referencing the Bagchi Muktabodha e-text against the printed edition.
 - [P] Google Books: Kaulajnana-nirnaya of the school of Matsyendranatha (Prācya Prakāśana 1986, Bagchi/Magee, 229pp) — English summaries in the printed volume. Cite: books.google.com/books?id=O0sdAAAAMAAJ.
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [V] Tantrāloka, Dyczkowski trans, local primary/texts/tantraloka-vol2-dyczkowski_clean.txt — heading "The Goddess with Eighty-one Parts, Śabdarāśi, Mātṛkā and Mālinī", v.197cd: "ekāśītipadā devī hy atrāntar bhāvayiṣyate" + gloss "the goddess consisting of eighty-one parts (pada) will be included here (in the fifty letters)" + "It is on this basis that the Lord has taught the mantra consisting of eighty-one (parts)."
+- Locator note: Mark's site cites this line as TL 6.228 (Mātaṅga quote); Dyczkowski-vol2 numbers it 197cd with half-measure accounting — BOTH locators kept, check at render, do not merge.
+- [S] Raurava thread/5-knot root still other-box (Bhatt 1961 ed.). Shelf has no Raurava.
+- Cite: Dyczkowski trans, Motilal Banarsidass (TL); buy link for readers. Shelf local-only, never commit.

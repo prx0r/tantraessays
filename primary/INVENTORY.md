@@ -29,7 +29,7 @@ Local-only, NOT in git (downloaded this round, .gitignore: primary/books/, *.pdf
 
 R2 shelf (stallshark account, local refs, not committed):
 - source-library/tantra/dyczkowski-translations/: aphorisms-of-siva (Shiva Sutras), doctrine-of-vibration, spandakarika (+ "texts-clean" variants of each).
-- source-library/tantra/abhinavagupta/tantraloka-vol1..11-dyczkowski.txt — Dyczkowski's Tantraloka translation, all 11 vols (~17MB total). THE E05/E06/E12 primary gap: Tantraloka 1 Ahnika upayas, 6 thread, 29 Kula rite now quotable from local text (short-quote + cite Dyczkowski trans, buy link for readers).
+- source-library/tantraloka/spanda/aphorisms/doctrine: **IMPORTED to primary/texts/ (14 files, 18MB, gitignored) 2026-10-24 and USED** — [V] banked into E03 (81-parts v197cd), E04 (prārabdha + videhamukti/jivanmukti), E06 (upāya structure + anupāya light-bliss), E07 (TL v657 meat/wine cremation-ground), E08 (Spanda pulse/ghurni/waves), E09 (sakticakra wheel + urmi wave), E11 (Shiva Sutras 1.1/2.1/3.1 verbatim). E05/E12 confirmed SILENT in shelf (Triṃśikā, Śivastotravali absent) — other-box stays.
 - tantraloka-site bucket has vol1-9 duplicate. Check /tmp/litrev per per-essay PRIMARY_LIT for already-banked extracts.
 
 JITW book TOC→essay map: ch1 Self-Awareness/Egoity→E01/E12 frame · ch2 Abhavavada Non-Being→E06 · ch3 Samvitprakasa + Inner Pilgrimage→E06/E03 ascent · ch4-6 Kubjika Goddess/Sacred Geography/Newar Kaula survey→E09 geography + E10 court + E11 roots · Bib p293 for edition pointers.

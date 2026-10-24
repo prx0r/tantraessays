@@ -47,3 +47,9 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 ## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
 - [P] Hulin review (2012) on Ratie — key line for anupaya beat: "le Soi, sans se voiler réellement, joue réellement à se voiler" (the Self, without truly veiling itself, truly plays at veiling itself). Ratie p.562. Directly on the no-method paradox.
 - [P] Torella Introduction (motilalbanarsidass.com) — "Pratyabhijna... constitutes one of the highest and most original moments of Indian thought." Good epigraph for the essay's authority claim. Cite: Torella/Baumer (eds), Utpaladeva, Philosopher of Recognition.
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [V] TL vol1: "The forms of liberating insight (jāapti [OCR]) are No Means and the three categories of means to realization (upāya) which Abhinava expounds, one at a time, in chapters two to five." — the lecture's own framing root (Mark said the same words in anuttara-12).
+- [V] TL vol1: "At the highest, No Means (anupāya) level, he receives the most intense descent of the power of grace (tīvratīvraśaktipāta). When this happens, the bodily functions are suspended and pure consciousness realizes its own Self as a dense mass of uninterrupted Light and Bliss" + "No Means (anupāya) is the subject of chapter two."
+- Note: parallel lit-review already banked MVUT Sanskrit three-means + Wallis Tantrasara Ch.2/3 quotes — use THOSE for on-screen primary; this shelf is the same claim in Dyczkowski's own TL wording.
+- Cite: Dyczkowski trans (MB); local-only, never commit.

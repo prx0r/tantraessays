@@ -51,3 +51,7 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - [S] Shivastotravali text: still SILENT (Bailley trans = cite+buy). Scholar pointers do not fill this.
 - [S] Bhairava Stava PDF: still not on disk (recitation transcript held). Scholar pointers do not fill this.
 - Verdict: scholar layer FILLED for grace/devotion (Torella + Ratie + Baumer). Shivastotravali + Stava still need text acquisitions.
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [S] SILENT: Śivastotravali (Utpaladeva) not in imported shelf. Cite+buy Bailley for on-screen root; Mark's lecture (vr0033-*) carries the recognition-devotion argument verbatim already.
+- [P] Shelf bonus for E12 framing: TL vol1 anupāya "dense mass of uninterrupted Light and Bliss" line (shared with E06) doubles as supreme-devotion state description if needed.

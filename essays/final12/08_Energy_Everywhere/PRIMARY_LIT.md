@@ -50,3 +50,10 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - [P] Spanda-Karika four commentaries volume already held (Dyczkowski trans, /tmp/litrev/dyczkowski/spandakarika.txt). The Kshemaraja SpandaSamdoha commentary is the scholarly backbone for the pulse beat.
 - [P] Ratie + Torella: not directly on Spanda pulse; keep as IPVV-adjacent pointers only. Do not force-fit.
 - Verdict: scholar layer FILLED for pulse (Dyczkowski + Kshemaraja commentaries + RO). Kauliki-50 still SILENT (unchanged).
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [V] Dyczkowski, Spanda Karika (SUNY 1992), local primary/texts/spandakarika-dyczkowski_clean.txt, exposition on Spanda: "It is the rythmn [OCR] or pulse of the energy of Siva, Who is one's own nature which is universal consciousness. It is accordingly called 'Spanda' which means 'vibration', 'throb' or 'pulsation' and is described as the subtle movement (kinciccalana) of consciousness, to distinguish it from the gross movement of physical action."
+- [V] Same file, ghurni exposition (Utpaladeva quoted): "As You pulsate blissfully (ghurnase), inebriating Yourself with the juice of the aesthetic delight of Your own nature (nijarasa), the phenomenal world emerges into manifestation."
+- [V] Same file, five signs: "delight (ananda), a leap (udbhava), a tremor (kampa), sleep (nidra) and, finally, pulsation (ghurni)."
+- [V] Dyczkowski, Doctrine of Vibration, ch "Sakti Cakra: The Wheel of Energies": "novel patterns of energy spontaneously form on the surface of consciousness through its inherent activity, as do waves on the surface of the sea."
+- Cite: Dyczkowski, SUNY 1992/1987; local-only, never commit. These are the pulse/wave root of kundalini-pt2-04 + yogini2-12.

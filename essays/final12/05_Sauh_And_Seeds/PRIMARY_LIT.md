@@ -49,3 +49,7 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - [P] Ratie Hulin review (2012, DOI 10.5167/uzh-78301) — French review of Le Soi et l'Autre with key quotes: "la Pratyabhijñā... cesse de se considérer comme un être limité... nous sommes Śiva" (we are Śiva) + "svātantryavāda ou doctrine de la liberté" (doctrine of freedom). Translate for the essay's self-recognition beat.
 - [P] Torella IPKV PDF: gianfrancobertagni.it/materiali/tantra/torellaisvara.pdf — critical edition + annotated translation of Utpaladeva's IPK with Vr̥tti. Free PDF, cite properly.
 - [P] MacCracken, "Recognizing Recognition" (semanticscholar PDF) — Utpaladeva's Sambandhasiddhi analysis. Key quote: "How could anyone not-insensible offer proof... of the knower, doer, self, supreme lord... this recognition is demonstrated by means of making visible Its śaktis." Cite: MacCracken 2020.
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [S] SILENT: no Para Triṃśikā and no sauḥ-bīja passage in the imported shelf (checked all 14 files: tantraloka 1-11, spandakarika, aphorisms, doctrine-of-vibration). E05's seed roots stay with the other box (Triṃśikā ed. + Matanga) — do not invent from these books.
+- What the shelf DOES give E05: TL vol1's upāya structure (same shelf as E06) confirms seed-of-structure; Vyoma PDF remains the on-screen Sanskrit for Ham.

@@ -59,3 +59,10 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 ## Supplementary web finds (blog/review/scan pointers, 2026-10-24)
 - [P] Bagchi/Magee 1986 (Prācya Prakāśana, 229pp) — English summaries of KJN + Matsyendra school traditions. Google Books preview: books.google.com/books?id=O0sdAAAAMAAJ. Use for the Roots-to-Rock lineage framing (English summaries + tradition history).
 - [P] KJN colophon repeated at every patala end: "iti jñānanirṇaye mahayoginikaule srimatsyendrapadavata(re)" — Matsyendra as avatar in the yogini-Kula lineage. Sanskrit held. This IS the lineage claim the Roots essay needs.
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [V] Dyczkowski, Aphorisms of Siva (Shiva Sutras, SUNY), local primary/texts/aphorisms-of-siva-dyczkowski_clean.txt — the three section openers, Vasugupta's actual sutras as Mark translates them:
+  - First Light 1.1: "1. Consciousness is the Self."
+  - Second Light 2.1: "1. The mind is Mantra."
+  - Third Light 3.1: "1. The mind is the Self."
+- Use: rock-revelation beat closes on the content found on the rock — give the sutras, not just the story. Cite: Dyczkowski trans (SUNY 1995); local-only, never commit.

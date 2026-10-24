@@ -42,3 +42,9 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: Aphorisms of Siva trans (Dyczkowski's own hand) anavam_corr/mala lines + Tantrasara ch.11 karma-equality image (Wallis). Voice-over-own-translation = seamless.
 - [P] Pushing impurities-powers / karma-time-freedom / theodicy sessions: his analysis extended-form — paraphrase with session cite, never as root voice.
 - Verdict: effect HOLDS (mala + karma-equality both voiced).
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [V] TL vol1, note ad SvT 4/150-152 / 1/43: "Not all impurity should be removed in the course of initiation. The part of it which manifests and sustains the initiate's current mental and physical existence should be left intact. Otherwise he would die. This residue is more commonly identified with the form of Karma which has been set into operation (prārabdha) and sustains the body until it is exhausted." — root of vyoma-07.
+- [V] TL vol2, prārabdha-answer (vidyā-upāya section): "some residual Karma remains which has started to take its effect (prārabdha). It is this Karma that keeps the initiate in the body, and is naturally exhausted in the course of the initiate's lifetime." + "This is the path of the Siddhānta, that favours the kind of liberation which takes place after death (videhamukti). The Kaula traditions like the Trika, on the other hand, favour liberation in this life (jivanmukti)." — root of vyoma-02 accretion distinction in ONE passage.
+- [V] TL vol1: "only (the Karma) that has begun (to take effect) (prārabdha) should not be purified" (Kṣemarāja SYT 5/88cd context, OCR slightly noisy).
+- Cite: Dyczkowski trans (MB); local-only, never commit.

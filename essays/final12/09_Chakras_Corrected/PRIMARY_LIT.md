@@ -41,3 +41,8 @@ Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effec
 - PAIR WITH: khecaricakra Sanskrit (GRETIL KubjT 2.40-41) + Urmi synonym (Ahnika 4 verses). Print = GRETIL/Dyczkowski eds (his TĀ hand where applicable; GRETIL where not — label it).
 - [S] No Mark-voice on the five goddess-wheel names or the 64-count. Those cards, if ever made, cannot carry his voice.
 - Verdict: effect HOLDS for the essay's actual argument (lateness + holes + body). Wheel lists stay out until verified.
+
+## Dyczkowski-trans shelf (local-only, imported 2026-10-24)
+- [V] Dyczkowski, Doctrine of Vibration, ch "Sakti Cakra: The Wheel of Energies": "each sequence is aptly symbolised by a rotating wheel (sakticakra), the spokes of which are the aspects of the divine creative energy of consciousness brought into play as the wheel revolves." + "These Wheels collectively represent the primal form or 'archetype-field structure' of all experience."
+- [V] Dyczkowski, Spanda Karika exposition: "It is the wave (urmi) of the ocean of consciousness" — the urmi line root for yogini2-12 in Dyczkowski's own English.
+- Use: late-vs-early wheel framing — his own wheel language sits between Mark's lecture (six-chakra late) and the Krama five wheels. Cite: Dyczkowski SUNY; local-only, never commit.
