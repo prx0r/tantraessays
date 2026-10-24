@@ -1,0 +1,39 @@
+{
+  "essay": "10_Yogini_Court",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 90,
+  "keeps": [
+    {
+      "start": 0,
+      "end": 30,
+      "grade": "A"
+    },
+    {
+      "start": 90,
+      "end": 99,
+      "grade": "A"
+    },
+    {
+      "start": 870,
+      "end": 890,
+      "grade": "A"
+    },
+    {
+      "start": 90,
+      "end": 121,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Sources_of_Tantr\u0101loka.mp3",
+    "audio/Yogini_part1.mp3",
+    "audio/Yogini_part2.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

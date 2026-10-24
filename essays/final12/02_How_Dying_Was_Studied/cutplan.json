@@ -1,0 +1,52 @@
+{
+  "essay": "02_How_Dying_Was_Studied",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 1659,
+  "keeps": [
+    {
+      "start": 22,
+      "end": 349,
+      "grade": "A"
+    },
+    {
+      "start": 1142,
+      "end": 1150,
+      "grade": "A"
+    },
+    {
+      "start": 1440,
+      "end": 1504,
+      "grade": "A"
+    },
+    {
+      "start": 2008,
+      "end": 2068,
+      "grade": "A"
+    },
+    {
+      "start": 0,
+      "end": 480,
+      "grade": "A"
+    },
+    {
+      "start": 1080,
+      "end": 1560,
+      "grade": "A"
+    },
+    {
+      "start": 1920,
+      "end": 2160,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Karma_and_rebirth.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

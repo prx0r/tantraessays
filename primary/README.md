@@ -1,0 +1,4 @@
+# Primary shelf — what to import, what to cite
+
+Public-domain full text (import excerpts): Rig Veda (Griffith 1896), Brihadaranyaka/Chandogya (Max Muller 1879 SBE). Tantric Sanskrit: Muktabodha digital library (searchable e-texts, no trans). Editions: Raurava Agama Sangraha N.R. Bhatt Pondicherry 1961; Malinivijayottara; Tantraloka (Gupta/Shastri eds); Kubjika corpus (Heilijgers/Sanderson eds); Jayadratha Yamala Shatka 3; Kulanirnaya/Kaula Jnana Nirnaya (Bagchi); Shiva Sutras (Vasugupta, Kshemaraja/Bhaskara comms); Spanda Karika; Pratyabhijna Hrdaya + Vimarshini (Singh trans — cite, buy link, do not copy); Shivastotravali (Utpaladeva, Bailley trans — cite); Bhairava Stava (have PDF in audio/).
+Rule: Sanskrit/KSTS public domain OK to quote. Modern translations: citation + buy link only, 1-2 line fair-use gloss max, plain-English paraphrase is yours.

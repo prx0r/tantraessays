@@ -1,0 +1,38 @@
+{
+  "essay": "08_Energy_Everywhere",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 91,
+  "keeps": [
+    {
+      "start": 1710,
+      "end": 1731,
+      "grade": "A"
+    },
+    {
+      "start": 844,
+      "end": 876,
+      "grade": "A"
+    },
+    {
+      "start": 1379,
+      "end": 1409,
+      "grade": "A"
+    },
+    {
+      "start": 2961,
+      "end": 2969,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Kundalini_pt1_20111101.mp3",
+    "audio/Kundalini_pt2_20111117.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

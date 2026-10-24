@@ -1,0 +1,33 @@
+{
+  "essay": "07_Two_Streams",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 80,
+  "keeps": [
+    {
+      "start": 22,
+      "end": 36,
+      "grade": "A"
+    },
+    {
+      "start": 141,
+      "end": 178,
+      "grade": "A"
+    },
+    {
+      "start": 630,
+      "end": 659,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Kundalini_pt1_20111101.mp3",
+    "audio/Sources_of_Tantr\u0101loka.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

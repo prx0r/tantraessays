@@ -1,0 +1,43 @@
+{
+  "essay": "03_Hook_Thread_Burn",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 130,
+  "keeps": [
+    {
+      "start": 4412,
+      "end": 4442,
+      "grade": "A"
+    },
+    {
+      "start": 4522,
+      "end": 4535,
+      "grade": "A"
+    },
+    {
+      "start": 810,
+      "end": 840,
+      "grade": "A"
+    },
+    {
+      "start": 870,
+      "end": 899,
+      "grade": "A"
+    },
+    {
+      "start": 1104,
+      "end": 1132,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Karma_and_rebirth.mp3",
+    "audio/Vyomavyapin_mantra.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

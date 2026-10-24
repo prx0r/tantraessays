@@ -1,0 +1,44 @@
+{
+  "essay": "11_Roots_To_Rock",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 86,
+  "keeps": [
+    {
+      "start": 90,
+      "end": 118,
+      "grade": "A"
+    },
+    {
+      "start": 1189,
+      "end": 1201,
+      "grade": "A"
+    },
+    {
+      "start": 54,
+      "end": 74,
+      "grade": "A"
+    },
+    {
+      "start": 360,
+      "end": 369,
+      "grade": "A"
+    },
+    {
+      "start": 599,
+      "end": 616,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Roots_and_Development_of_Tantras.mp3",
+    "audio/Shiva_Sutra_Introduction.mp3",
+    "audio/Sources_of_Tantr\u0101loka.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

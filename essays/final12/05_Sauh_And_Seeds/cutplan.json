@@ -1,0 +1,40 @@
+{
+  "essay": "05_Sauh_And_Seeds",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 59,
+  "keeps": [
+    {
+      "start": 127,
+      "end": 152,
+      "grade": "A"
+    },
+    {
+      "start": 433,
+      "end": 448,
+      "grade": "A"
+    },
+    {
+      "start": 3581,
+      "end": 3587,
+      "grade": "A"
+    },
+    {
+      "start": 1661,
+      "end": 1674,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Elucidation_on_Para_Vidya.mp3",
+    "audio/Markji_Intro_CIIS_2010.m4a",
+    "audio/Sources_of_Tantr\u0101loka.mp3",
+    "audio/Vyomavyapin_mantra.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

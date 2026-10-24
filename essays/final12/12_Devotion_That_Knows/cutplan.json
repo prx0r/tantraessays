@@ -1,0 +1,44 @@
+{
+  "essay": "12_Devotion_That_Knows",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 1037,
+  "keeps": [
+    {
+      "start": 3,
+      "end": 51,
+      "grade": "A"
+    },
+    {
+      "start": 2611,
+      "end": 2659,
+      "grade": "A"
+    },
+    {
+      "start": 4388,
+      "end": 5265,
+      "grade": "A"
+    },
+    {
+      "start": 1800,
+      "end": 1835,
+      "grade": "A"
+    },
+    {
+      "start": 219,
+      "end": 248,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Elucidation_on_Para_Vidya.mp3",
+    "audio/VR0033_devotion_dec_3_2011.mp3",
+    "audio/anuttara.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

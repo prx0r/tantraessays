@@ -1,0 +1,23 @@
+{
+  "essay": "06_No_Method",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 11,
+  "keeps": [
+    {
+      "start": 1769,
+      "end": 1780,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Sources_of_Tantr\u0101loka.mp3",
+    "audio/anuttara.mp3"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}

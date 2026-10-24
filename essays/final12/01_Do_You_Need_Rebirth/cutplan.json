@@ -1,0 +1,53 @@
+{
+  "essay": "01_Do_You_Need_Rebirth",
+  "target_min": {
+    "A": 15,
+    "B": 30,
+    "C": 45
+  },
+  "kept_sec_cores": 1453,
+  "keeps": [
+    {
+      "start": 0,
+      "end": 22,
+      "grade": "A"
+    },
+    {
+      "start": 233,
+      "end": 247,
+      "grade": "A"
+    },
+    {
+      "start": 349,
+      "end": 359,
+      "grade": "A"
+    },
+    {
+      "start": 0,
+      "end": 720,
+      "grade": "A"
+    },
+    {
+      "start": 359,
+      "end": 720,
+      "grade": "A"
+    },
+    {
+      "start": 5310,
+      "end": 5337,
+      "grade": "A"
+    },
+    {
+      "start": 5337,
+      "end": 5636,
+      "grade": "A"
+    }
+  ],
+  "audios": [
+    "audio/Karma_and_rebirth.mp3",
+    "audio/Markji_Intro_CIIS_2010.m4a"
+  ],
+  "timebase": "srt-native (=audio, no YT/DS map needed)",
+  "seam_rule": "block after cut reads standalone; never mid-sentence in render (expand core to sentence boundaries at edit)",
+  "grades": "A=gold must-use, B=depth, C=mention; A\u2282B\u2282C"
+}
