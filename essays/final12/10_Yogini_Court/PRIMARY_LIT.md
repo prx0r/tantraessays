@@ -31,3 +31,10 @@ New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasa
 - [P] "Aspects of the Goddess" (Tantrasara ch.4 part 4, Wallis): Krama goddesses named in text — Kalakarsini/Kali + Vamesvari ("Goddess of Beauty", central Krama goddess) with Sanderson cross-ref (ts_clean/the-aspects-of-the-goddess file). Pointer: read before scripting goddess-identity beats; short quotes allowed (Wallis (c)).
 - [P] Same file carries the TĀ29 kula-yaga talk link + Yoginis-teachings link — acquisition pointers, not quotes.
 Verdict: THIN (unchanged verdict): goddess color located; the three named lists still SILENT. Do not let goddess color masquerade as the missing counts on screen.
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Yogini court voiced: "Thousands and thousands of Yoginis... never a deity, they are the Gana... never alone... great court... attended by Yoginis" (transcripts/Yogini_part1.txt). Matches the essay's "Never alone (Gana)" beat verbatim in spirit — stage this clip AS the beat.
+- PAIR WITH: yoginikule Sanskrit (GRETIL KubjT 23.71-72) — his court-talk over the root word. Label root as Kubjikamata ed.
+- [S] Shatá-3 rite, 8 families, 64-count: no Mark voice, no print. Cannot use the effect; keep counts off screen.
+- Verdict: effect HOLDS for the court framing; lists stay out.

@@ -36,3 +36,10 @@ New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasa
 - [V] Sanskrit anchor, Tantrasara 3rd Ahnika (GRETIL/Hellwig, held): "nirvikalpam eva bhairavasamavesam anubhavati" (abhts_2.4) — anupaya in Abhinavagupta's own words, verbatim-safe.
 - [P] Ch.2 file indexes VB fire verses (22-27, 32-33, 43-55) as the foundational practices — cross-ref to VB #53/#136 already banked in part 1.
 Verdict: FILLED. The essay can now be cut entirely from Wallis-translated Tantrasara + MVUT Sanskrit + VB, no new acquisitions.
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Anupaya voiced: "Malinivijayottara Tantra... defines one who is penetrated by the Shambhava state as thinking nothing" (transcripts/anuttara.txt) + "which means don't do anything. And means are of no use... We practice japa, we feel the result" (same file).
+- PAIR WITH: MVUT 2.19-24 Sanskrit (held, GRETIL) + TĀ Ahnika 1 three-means (Dyczkowski trans, his own hand) + VB #53/#136 fire (Lakshmanjoo trans — other hand, label it).
+- This is the STRONGEST pairing on the slate: his lecture quotes the same MVUT passage the essay banks. Stage lecture audio under the Sanskrit card.
+- Verdict: effect HOLDS at full strength. No fetch needed.

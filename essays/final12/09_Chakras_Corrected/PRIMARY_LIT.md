@@ -34,3 +34,10 @@ New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasa
 - [P] "The 10-cakra system from Jewel-mine of Music" (linked teaching referenced across Tantrasara Explained pages): ACQUIRE before voice record — this is likely the alternate-cakra-system source the essay needs against the late six-cakra model. Pointer only; do not cite content unseen.
 - [S] No Tantrasara passage on the five goddess-wheels found in Sanskrit file or explained chapters (goddess-wheel roster absent). Part-1 SILENT stands; add Jewel-mine pointer to the fetch list.
 Verdict: PARTIAL (one new pointer). Blocking gaps unchanged.
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Six-chakra lateness thesis + holes/non-linear entry + body-as-means: all voiced in kundalini-pt1/Sources timestamps (SPINE). The essay's spine is already his voice.
+- PAIR WITH: khecaricakra Sanskrit (GRETIL KubjT 2.40-41) + Urmi synonym (Ahnika 4 verses). Print = GRETIL/Dyczkowski eds (his TĀ hand where applicable; GRETIL where not — label it).
+- [S] No Mark-voice on the five goddess-wheel names or the 64-count. Those cards, if ever made, cannot carry his voice.
+- Verdict: effect HOLDS for the essay's actual argument (lateness + holes + body). Wheel lists stay out until verified.

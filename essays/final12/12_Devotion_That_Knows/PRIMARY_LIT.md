@@ -35,3 +35,10 @@ New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasa
 - [V] Essence intro (Wallis): Abhinavagupta's own verse — "the heart of my awareness was freed of contraction by the power of my guru Sambhunatha... If you would worship Maheshvara you have only to know its nature as your own." SHORT-QUOTE eligible — knowing-as-worship in the author's voice; strong close material.
 - [V] Ch.5 embodied method (Wallius): "through the grace of Pure Wisdom" + conceptualization-becomes-Highest-Divinity line (ts_clean/the-embodied-method file). SHORT-QUOTE eligible.
 Verdict: grace/devotion angle now FILLED (Wallis trans). Still open: Shivastotravali text + Stava PDF (part-1 pointers stand).
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Non-dual devotion voiced (VR0033 2011-12-01): "how can you be devotee of Lord Shiva, recognizing that He is who you are?... the ground and foundation of all our practice." The paradox beat in his own voice — stage as cold open or close.
+- PAIR WITH: Tantrasara ch.11 grace argument + Sambhunatha verse (Wallis trans — other hand, label it) + Para Trimshika grace verses (GRETIL root Sanskrit).
+- [S] Shivastotravali (Bailley): no Mark voice, no print. Stava transcript exists (recitation only, no PDF) — singable, not quotable as text; keep audio-only or re-acquire.
+- Verdict: effect HOLDS for the paradox frame (his voice) over grace texts (others' hands, labeled).

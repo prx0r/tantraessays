@@ -23,3 +23,10 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 ### From tantra shelf
 - [P] Netra Tantra (mrtyujit rites) via patalacheckpoints shelf: `translations/` has no netra file on disk — pointer to Muktabodha/GRETIL Netra Tantra (Brunner ed.) + R2 search note. Do not quote unlocated text.
 ### Verdict: PARTIAL. Missing (blocking): RV 10.10 + Chandogya door texts (fetch Griffith/Olivelle before voice record). Non-blocking: Netra pointer.
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Dying-as-laboratory frame + goldsmith improvement reading (SPINE Beat 5/5b; BU 4.4.3-4 file in-repo).
+- [P] Netra Tantra mrtyujit rites as the Tantric parallel to observed dying (pointer only — no Netra text on disk; Muktabodha/GRETIL fetch before any screen claim).
+- [P] RO initiation sadyahsamutkrama (dying-person initiation, TA 24/1-24ab): the Tantric answer to what you DO at death — contrast material, not proof.
+- Verdict: effect HOLDS for the Upanishadic core. Tantric-dying parallel needs Netra text first.

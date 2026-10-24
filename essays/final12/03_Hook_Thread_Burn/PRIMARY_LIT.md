@@ -35,3 +35,9 @@ New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasa
 - [V] Essence intro (Wallis): "personal ignorance can be removed by [Tantrik] initiation and the spiritual practice that initiation makes possible" (ts_clean/the-essence-of-tantra-introduction.txt). One-line diksa gloss.
 - [P] Tantrasara diksa-vidhi sections (Sanskrit file, unmined — grep diksa at render): full paddhati-adjacent procedure lives here, not in R2 Ahnika set.
 Verdict: initiation angle now FILLED (Wallis lines); Raurava last-chapter still SILENT (Bhatt ed. pointer stands).
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Vyomavyapin 81 as his gloss (transcript timestamp per SPINE) + paddhati-as-liturgy line is Dyczkowski-the-translator's own TA rendering (ahnika-01.txt). Same hand twice — strongest case on the slate.
+- [S] Raurava last chapter: no Mark voice, no print held. If the Burn beat needs Raurava, it cannot use this effect — keep it Mark-narration-only or fetch Bhatt ed.
+- Verdict: effect HOLDS for thread-rite framing; Burn beat stays voice-only until Raurava lands.

@@ -29,3 +29,10 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 - [P] Sound-metaphysics + mantra-breath ROs: A→KSA alphabet-emission + AHAM pervades all mantras — supports "mantras cannot be discarded" beat.
 - [P] Mantra-science RO (Layayoga: sound as supra-power; 1:4:2 ratio) — secondary color only.
 ### Verdict: FILLED on Sauh core (Singh + GRETIL root + Kubjika Aim strings). Missing: Matanga text, Navatma list (pointers logged).
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Hamsa/breathing-being voiced (Kundalini pt2: "the breathing being makes this sound hamsa... carried upward through phases of consciousness"; Vyomavyapin mantra transcript) + Sauh elucidation 00:02:07 ("Sao... pervades the whole universe. Au is will, knowledge, action").
+- PAIR WITH: Singh PTV amrtabija exposition (print = Singh's hand, NOT Mark's) + GRETIL Paratrimsika root Sanskrit + Kubjika Aim mantras (Sanskrit, KubjT 5.1-5.3/5.16).
+- Honesty note for the cut: voice is Mark's, print is Singh's/GRETIL's. Stage it as his gloss OVER their text — label the text block (Singh/Motilal; GRETIL ed.), never imply he translated it on screen.
+- Verdict: effect HOLDS with attribution discipline. Missing (Matanga/Navatma) cannot use this effect at all.

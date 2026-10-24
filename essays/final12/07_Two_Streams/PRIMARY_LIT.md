@@ -25,3 +25,10 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 - [P] `ESSAY-KRAMA-IPVV.md` (damn recognition): Krama lineage placement vs Trika — one-paragraph guardrail so "two streams" doesn't collapse into one.
 - [P] Hareesh Kaula-triad explainer (`RS_the-only-real-limitation-is-self-limitation.html`: "Kaula Trika, Krama, and Pratyabhijna lineages") — modern-teacher framing, cite don't copy.
 ### Verdict: PARTIAL. Missing (blocking): TĀ29 rite content + Jayadratha/Kularatnamala specifics (pointers logged; essay must stay on Mark + ranking passages until filled).
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Trika-over-Siddhanta ranking voiced (Vyomavyapin 00:07:13) + Matsyendra/Kaula origin voiced (Roots lecture: Gorakhnath disciple of Matsyendranath; Kaula without Kali; TĀ's single mention).
+- PAIR WITH: Ahnika 1 trans of the same ranking (Dyczkowski's own hand) + Matsyendra 4th-age passage (same). Same hand twice — seamless.
+- [S] TĀ 29 rite proper, Jayadratha Yamala, Kularatnamala: no Mark voice, no print. These beats CANNOT use the effect — Mark-narration-only until fetched.
+- Verdict: effect HOLDS for ranking/origin; rite content stays voice-only.

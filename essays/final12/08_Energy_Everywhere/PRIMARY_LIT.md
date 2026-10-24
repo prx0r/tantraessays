@@ -36,3 +36,10 @@ New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasa
 - [V] Spanda quoted inside Tantrasara Explained ch.4 (Wallis): "Whenever and whatever causes the vibration of resolute effort [towards the goal]..." (Spanda Karika 4.1 neighborhood, ts_clean/cherishing-your-own-radiant-beauty file). SHORT-QUOTE eligible — the pulse in Tantrasara's own voice.
 - [V] Ch.1 modes (Wallis): Knowing/Acting as Immersion modes (same file as E06) — energy-as-awareness framing line.
 Verdict: pulse anchor FILLED alongside part-1 urmi/ahamvimarsa lines. Kauliki-50 stays SILENT (unchanged).
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Spanda voiced: "Samanya Spanda, Universal Vibration of Consciousness... the Vitality of Mantra... the Vitality of all Mantras" (transcripts/Sources_of_Tantraloka.txt; trailing clause in transcript is garbled whisper — do not complete it on screen) + Kaula-as-energy-activity (SPINE kundalini-pt1-06, transcript).
+- PAIR WITH: Urmi-as-spanda synonym line (Ahnika 4 verses, Dycz) + ahamvimarsa passage (Doctrine of Vibration, Dycz) + Spanda Karika volume (Dycz trans, his hand throughout).
+- Almost entirely same-hand: his lecture + his translations. The closest the project gets to one continuous voice.
+- Verdict: effect HOLDS at full strength.

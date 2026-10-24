@@ -25,3 +25,11 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 ### From tantra shelf
 - [P] `ESSAY-ABHINAVA-VS-UTPALADEVA.md` + Flood Tantric Body (owned PDF/txt): lineage/history framing with dates guarded — cite, don't narrate beyond sources.
 ### Verdict: PARTIAL. Missing: KJnana-corpus texts + Kapalika specifics (pointers logged; essay rides Matsyendra-verbatim + legend-framing).
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Matsyendra voiced (Roots lecture: Gorakhnath disciple of Matsyendranath; Kaula without Kali/deity; TĀ's single mention per Drogi/Sanderson) + Ahnika 1 trans of the same (his hand): Matsyendra 4th-age teacher + "Matsyendra's reformed Kaulism" (Jayaratha gloss).
+- Same-hand-twice again (lecture + his translation). The lineage story should be cut nowhere else.
+- [S] KJnana corpus, Akula Vira, Urmikaularnava, Kapalika sadhana, Vasugupta discovery narrative: no Mark voice except the Roots Matsyendra material — keep legend-framing, label as tradition-history.
+- [P] Flood Tantric Body (owned PDF/txt, deitybody corpus) + ESSAY-ABHINAVA-VS-UTPALADEVA (recognition dir): history guardrails, cite only.
+- Verdict: effect HOLDS for Matsyendra/Kula origin. Rest stays flagged tradition-narrative.

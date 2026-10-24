@@ -45,3 +45,10 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 ### Scholarly cites (pointer only, per repo rule)
 - Doniger (ed.) Karma and Rebirth; Bronkhorst on Sramana/Vedic interaction; Heesterman on renunciation; Jha (Mimamsa apurva); Plotinus/Gregory parallels noted but keep out of cut.
 ### Verdict: FILLED (in-repo primary) + POINTERS logged. Missing: nothing blocking. Olivelle trans comparison optional (nice-to-have).
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] "120-130 sects" gloss on Nikaya heretic lists + Jain/Buddhist doxographies; ultra-modern frame carries the objection beat in his own voice (SPINE Beat 4 milieu).
+- PAIR WITH: SuttaCentral DN2 six-teacher summary (in-repo primary/E01_sramana_six.md) + BU 3.2.13 secret (in-repo). Effect: his gloss OVER the canon list — label the list as Nikaya/SuttaCentral on screen.
+- [S] No Mark-voice on Gitarthasangraha intro or PH vimar impair sutras — those stay cite+buy pointers, never voiced.
+- Verdict: effect HOLDS for the objection beat.

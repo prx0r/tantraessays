@@ -35,3 +35,10 @@ New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasa
 - [V] Tantrasara ch.11 (Wallis): "'Equality of karmas' is the theory that when two opposing karmas of equal strength block one another..." (ts_clean/the-descent-of-power-tantrasara-chapter-11.txt). SHORT-QUOTE eligible — this is the accretion/blockage image behind "kept back."
 - [P] Same chapter: shaktipata-vs-karma argument (grace CANNOT be ordinary karmic result, else partiality follows) — theodicy guardrail; pairs with pushing theodicy session.
 Verdict: mechanism image FILLED; prarabdha root + Puranic base still open (part-1 pointers stand).
+
+### Mark-voice pairing (the Dyczkowski-explains-the-primary effect, local-only, 2026-10-24)
+Rule: Mark's lecture voice glossing the SAME passage the essay banks = the effect is real, not staged. Where print is another translator's hand, the pairing is voice-over-text (label it so on screen). Where neither his voice nor his translation covers it, say so.
+- [V-MARK] Mala trio voiced: "the three forms, anava, karma and mayiya mala are operating... you are a Sakala Pramatar" (transcripts/Shiva_Sutra_Introduction.txt) + "karma, maya, anava... forms of one impurity" (transcripts/Karma_and_rebirth.txt).
+- PAIR WITH: Aphorisms of Siva trans (Dyczkowski's own hand) anavam_corr/mala lines + Tantrasara ch.11 karma-equality image (Wallis). Voice-over-own-translation = seamless.
+- [P] Pushing impurities-powers / karma-time-freedom / theodicy sessions: his analysis extended-form — paraphrase with session cite, never as root voice.
+- Verdict: effect HOLDS (mala + karma-equality both voiced).
