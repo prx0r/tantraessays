@@ -27,3 +27,12 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 - [P] `ESSAY-SPANDA-IPVV.md` + Pratyabhijna/SPANDA workbooks (R2 workbooks/): the process-ontology framing (recognition→process) — paraphrase with cite.
 - [P] Pushing `LOGICVID-session-krama-time.md` (time as mode of manifestation): guardrail against "energy in time" slop.
 ### Verdict: FILLED on pulse/I-ness/urmi. Missing: Kauliki-50 content (pointer logged; stays a named-but-unquoted node).
+
+## Literature review, part 2 — Tantraloka/Tantrasara deep dive (local-only, 2026-10-24)
+Scope key: [V] verbatim-held · [P] pointer · [S] silent (do not invent).
+New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasara/gretil_tantrasara_clean.txt) + Hareesh "Explained: Tantrasara" chapter pages (Wallis trans + commentary, /tmp/litrev/ts_clean/*.txt — cite Wallis, short quotes only, translation (c)).
+
+### Tantrasara on pulse (spanda entry point)
+- [V] Spanda quoted inside Tantrasara Explained ch.4 (Wallis): "Whenever and whatever causes the vibration of resolute effort [towards the goal]..." (Spanda Karika 4.1 neighborhood, ts_clean/cherishing-your-own-radiant-beauty file). SHORT-QUOTE eligible — the pulse in Tantrasara's own voice.
+- [V] Ch.1 modes (Wallis): Knowing/Acting as Immersion modes (same file as E06) — energy-as-awareness framing line.
+Verdict: pulse anchor FILLED alongside part-1 urmi/ahamvimarsa lines. Kauliki-50 stays SILENT (unchanged).

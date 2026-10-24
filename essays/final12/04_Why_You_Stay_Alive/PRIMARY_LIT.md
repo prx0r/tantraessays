@@ -26,3 +26,12 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 - [P] `LOGICVID-session-karma-time-freedom.md` (karma = time-contraction; empties itself of free will): the stay-alive mechanism in one image — use the verdict line only, flagged as session analysis.
 - [P] `LOGICVID-session-theodicy-why-impurity.md` (ROUND 1: the question is wrong as asked): guardrail for the Area note — keeps the essay from over-claiming on "why impurity."
 ### Verdict: PARTIAL. Missing (blocking): prarabdha root passage + Puranic karma-bhumi line (both pointers logged, fetch before record).
+
+## Literature review, part 2 — Tantraloka/Tantrasara deep dive (local-only, 2026-10-24)
+Scope key: [V] verbatim-held · [P] pointer · [S] silent (do not invent).
+New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasara/gretil_tantrasara_clean.txt) + Hareesh "Explained: Tantrasara" chapter pages (Wallis trans + commentary, /tmp/litrev/ts_clean/*.txt — cite Wallis, short quotes only, translation (c)).
+
+### Tantrasara on karma-equality (the stay-alive mechanism)
+- [V] Tantrasara ch.11 (Wallis): "'Equality of karmas' is the theory that when two opposing karmas of equal strength block one another..." (ts_clean/the-descent-of-power-tantrasara-chapter-11.txt). SHORT-QUOTE eligible — this is the accretion/blockage image behind "kept back."
+- [P] Same chapter: shaktipata-vs-karma argument (grace CANNOT be ordinary karmic result, else partiality follows) — theodicy guardrail; pairs with pushing theodicy session.
+Verdict: mechanism image FILLED; prarabdha root + Puranic base still open (part-1 pointers stand).

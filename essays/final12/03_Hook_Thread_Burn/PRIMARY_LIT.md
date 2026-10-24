@@ -25,3 +25,13 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 ### From tantra shelf
 - [P] Mantra-science RO (`ro-layayoga-mantra-science`): Matrka/supra-sound framing for the Burn beat (mantra as that which burns karma) — analysis pointer, short quote only.
 ### Verdict: PARTIAL. Missing (blocking): Raurava last-chapter content (acquire Bhatt ed. or mark beat as Mark-only). Paddhati shelf located, not yet pulled.
+
+## Literature review, part 2 — Tantraloka/Tantrasara deep dive (local-only, 2026-10-24)
+Scope key: [V] verbatim-held · [P] pointer · [S] silent (do not invent).
+New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasara/gretil_tantrasara_clean.txt) + Hareesh "Explained: Tantrasara" chapter pages (Wallis trans + commentary, /tmp/litrev/ts_clean/*.txt — cite Wallis, short quotes only, translation (c)).
+
+### Tantrasara on initiation (thread-rite context)
+- [V] Tantrasara ch.11 (Wallis): "For others, [liberation] comes about due to grasping the utility of initiation. Thus initiation and what follows it must be explained." File: ts_clean/the-descent-of-power-tantrasara-chapter-11.txt. Use as the thread-initiation bridge line (initiation as the rite that makes the thread work).
+- [V] Essence intro (Wallis): "personal ignorance can be removed by [Tantrik] initiation and the spiritual practice that initiation makes possible" (ts_clean/the-essence-of-tantra-introduction.txt). One-line diksa gloss.
+- [P] Tantrasara diksa-vidhi sections (Sanskrit file, unmined — grep diksa at render): full paddhati-adjacent procedure lives here, not in R2 Ahnika set.
+Verdict: initiation angle now FILLED (Wallis lines); Raurava last-chapter still SILENT (Bhatt ed. pointer stands).

@@ -22,3 +22,12 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 - [P] Wallis "Secret Teachings of the Yoginis" (Hareesh blog archive-link, verified present on every recognition-sutra page footer): pointer to acquire (transcript/audio), not a quote.
 - [P] Twelve-kalis RO: Kalasamkarsini + retinue energetics — adjacent color for "never alone / gana" beat (cite RO).
 ### Verdict: THIN. Missing (blocking): all three named lists (Shatka rite, 8 families, 64-count). Recordable only if beats stay on Mark + the single yoginikula verse; flag counts as UNVERIFIED until sourced.
+
+## Literature review, part 2 — Tantraloka/Tantrasara deep dive (local-only, 2026-10-24)
+Scope key: [V] verbatim-held · [P] pointer · [S] silent (do not invent).
+New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasara/gretil_tantrasara_clean.txt) + Hareesh "Explained: Tantrasara" chapter pages (Wallis trans + commentary, /tmp/litrev/ts_clean/*.txt — cite Wallis, short quotes only, translation (c)).
+
+### Tantrasara goddess material
+- [P] "Aspects of the Goddess" (Tantrasara ch.4 part 4, Wallis): Krama goddesses named in text — Kalakarsini/Kali + Vamesvari ("Goddess of Beauty", central Krama goddess) with Sanderson cross-ref (ts_clean/the-aspects-of-the-goddess file). Pointer: read before scripting goddess-identity beats; short quotes allowed (Wallis (c)).
+- [P] Same file carries the TĀ29 kula-yaga talk link + Yoginis-teachings link — acquisition pointers, not quotes.
+Verdict: THIN (unchanged verdict): goddess color located; the three named lists still SILENT. Do not let goddess color masquerade as the missing counts on screen.

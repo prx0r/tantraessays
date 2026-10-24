@@ -25,3 +25,13 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 - [P] Hareesh bhakti paradigm (`RS_paradigms-of-bhakti.html`, R2): modern-teacher bhakti framing — cite don't copy.
 - [P] Recognition `ESSAY-SOTERIOLOGY-OF-RECOGNITION.md` (verify exists before citing in cut notes; file seen in recognition dir listing) — liberation-as-recognition closer.
 ### Verdict: PARTIAL. Missing (blocking): Shivastotravali text + Stava PDF (pointers logged). Recordable on transcript + Trimshika grace verses.
+
+## Literature review, part 2 — Tantraloka/Tantrasara deep dive (local-only, 2026-10-24)
+Scope key: [V] verbatim-held · [P] pointer · [S] silent (do not invent).
+New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasara/gretil_tantrasara_clean.txt) + Hareesh "Explained: Tantrasara" chapter pages (Wallis trans + commentary, /tmp/litrev/ts_clean/*.txt — cite Wallis, short quotes only, translation (c)).
+
+### Tantrasara on grace/devotion (Wallis trans)
+- [V] Ch.11 descent of power (Wallis, 4802-word chapter, ts_clean/the-descent-of-power file): shaktipata-vs-ordinary-result argument ("unacceptable conclusion of [grace] remaining within the domain of ordinary experience") + initiation-utility line. SHORT-QUOTE eligible — the grace beat's doctrinal spine.
+- [V] Essence intro (Wallis): Abhinavagupta's own verse — "the heart of my awareness was freed of contraction by the power of my guru Sambhunatha... If you would worship Maheshvara you have only to know its nature as your own." SHORT-QUOTE eligible — knowing-as-worship in the author's voice; strong close material.
+- [V] Ch.5 embodied method (Wallius): "through the grace of Pure Wisdom" + conceptualization-becomes-Highest-Divinity line (ts_clean/the-embodied-method file). SHORT-QUOTE eligible.
+Verdict: grace/devotion angle now FILLED (Wallis trans). Still open: Shivastotravali text + Stava PDF (part-1 pointers stand).

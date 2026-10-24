@@ -25,3 +25,12 @@ Rule from user: no text unless from a verified source or high-signal analysis of
 - [P] Serpent Power (Woodroffe 1919): late-contrast only, as INVENTORY says — cite, one line, no doctrine from it.
 - [P] Goswami subtle-body + Layayoga kund inhalt ROs (`ro-layayoga-subtle-body`, `ro-lay437...kundalini`, `ro-layayoga-mantra-science`): sapta-cakra/three-system comparison + "kundalini as samadhi-force, not serpent-energy" — high-signal modern systematization; cite RO, short quotes only.
 ### Verdict: PARTIAL. Missing (blocking): five-wheel roster verbatim + Urmi cosmogony verse no. (pointers logged; essay otherwise recordable).
+
+## Literature review, part 2 — Tantraloka/Tantrasara deep dive (local-only, 2026-10-24)
+Scope key: [V] verbatim-held · [P] pointer · [S] silent (do not invent).
+New shelves vs part 1: Tantrasara Sanskrit (GRETIL/Hellwig, /tmp/litrev/tantrasara/gretil_tantrasara_clean.txt) + Hareesh "Explained: Tantrasara" chapter pages (Wallis trans + commentary, /tmp/litrev/ts_clean/*.txt — cite Wallis, short quotes only, translation (c)).
+
+### Tantrasara cakra pointers
+- [P] "The 10-cakra system from Jewel-mine of Music" (linked teaching referenced across Tantrasara Explained pages): ACQUIRE before voice record — this is likely the alternate-cakra-system source the essay needs against the late six-cakra model. Pointer only; do not cite content unseen.
+- [S] No Tantrasara passage on the five goddess-wheels found in Sanskrit file or explained chapters (goddess-wheel roster absent). Part-1 SILENT stands; add Jewel-mine pointer to the fetch list.
+Verdict: PARTIAL (one new pointer). Blocking gaps unchanged.
