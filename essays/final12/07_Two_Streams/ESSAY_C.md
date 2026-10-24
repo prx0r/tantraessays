@@ -1,5 +1,4 @@
-# Two Streams Version C — contains all of B + rest
-
+# Essay 7 Version C — contains all of B + rest
 A+B play unchanged.
-
-C adds: Q&A tails, anecdotes, alternate phrasings, room interaction (no chant/tech). Total C: A+B+texture ≈ full lecture select. A⊂B⊂C. Mantra Sanskrit via PDF only.
+## 6. Scholar caution (Sanderson/Bagchi dating doubts, White on Matsyendra age) + Q&A Kula vs Kaula question.
+Total C: B 28m + texture ~8m = ~36m. A⊂B⊂C.

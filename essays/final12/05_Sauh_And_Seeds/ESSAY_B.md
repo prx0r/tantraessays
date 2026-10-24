@@ -1,7 +1,12 @@
-# Sauh and Seeds Version B — contains all of A + depth
+# Essay 5 Version B — contains all of A + depth
 
-A plays unchanged (4 clips, ESSAY_A.md).
+A plays unchanged (4 clips).
 
-B adds (20-40m): full-section windows around each A clip (pre480/post720, merged), 1 paired verse per beat from PRIMARY_LIT, 1 bridge line where Mark jumps.
+## 5. elucidation-01 — Aum as door (00:00:00-->00:03:28)
+Aum is acceptance, the door to the temple. Say it and you agree to be mothered by Para.
+## 6. sources-12 — mantras cannot be discarded
+AUDIO: audio/Sources_of_Tantrāloka.mp3 | 00:59:41,139 --> 00:59:47,400
+> "but you can't get rid of the mantras. Because they are, as fundamentally, they are that reality also."
+PLAIN: Sounding is reality sounding. Dropping mantra would drop the real.
 
-Total B: A windows + depth ≈ 20-40m. A⊂B.
+Total B: A 14m + depth ~10m = ~24m. A⊂B.

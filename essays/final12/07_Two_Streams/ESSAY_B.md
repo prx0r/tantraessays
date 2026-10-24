@@ -1,7 +1,5 @@
-# Two Streams Version B — contains all of A + depth
-
-A plays unchanged (4 clips, ESSAY_A.md).
-
-B adds (20-40m): full-section windows around each A clip (pre480/post720, merged), 1 paired verse per beat from PRIMARY_LIT, 1 bridge line where Mark jumps.
-
-Total B: A windows + depth ≈ 20-40m. A⊂B.
+# Essay 7 Version B — contains all of A + depth
+A plays unchanged.
+## 5. yogini1-01 Bhairava Srotas marker + Kularatnamala/Tantrasadbhaava initiation types (sources refs)
+Two initiation lineages into Kaula (Kundalini raising, bindu-vedha variants). Same procedures surface in Kubjika — independence proof.
+Total B: A 18m + depth ~10m = ~28m. A⊂B.

@@ -1,7 +1,5 @@
-# Devotion That Knows Version B — contains all of A + depth
-
-A plays unchanged (5 clips, ESSAY_A.md).
-
-B adds (20-40m): full-section windows around each A clip (pre480/post720, merged), 1 paired verse per beat from PRIMARY_LIT, 1 bridge line where Mark jumps.
-
-Total B: A windows + depth ≈ 20-40m. A⊂B.
+# Essay 12 Version B — contains all of A + depth
+A plays unchanged.
+## 6. vr0033-03 being-Shiva-worship-Shiva + vr0033-07 grace/servants + anuttara-07 anupaya thesis
+Worship as Shiva, servants by grace, application to the full makes no sense. Devotion with no ladder left.
+Total B: A 20m + depth ~10m = ~30m. A⊂B.

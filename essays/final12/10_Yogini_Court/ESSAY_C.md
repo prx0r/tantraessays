@@ -1,5 +1,4 @@
-# Yogini Court Version C — contains all of B + rest
-
+# Essay 10 Version C — contains all of B + rest
 A+B play unchanged.
-
-C adds: Q&A tails, anecdotes, alternate phrasings, room interaction (no chant/tech). Total C: A+B+texture ≈ full lecture select. A⊂B⊂C. Mantra Sanskrit via PDF only.
+## 7. Buddhist parallels + spontaneous societies + article anecdotes (Nidika Kubjika piece, photo-request Russia aside — cut to 30s color).
+Total C: B 30m + texture ~10m = ~40m. A⊂B⊂C.

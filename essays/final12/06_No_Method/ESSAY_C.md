@@ -1,5 +1,7 @@
-# No Method Version C — contains all of B + rest
+# Essay 6 Version C — contains all of B + rest
 
 A+B play unchanged.
 
-C adds: Q&A tails, anecdotes, alternate phrasings, room interaction (no chant/tech). Total C: A+B+texture ≈ full lecture select. A⊂B⊂C. Mantra Sanskrit via PDF only.
+## 7. Q&A + PhD disclaimer (anuttara-13) + fan/water room
+"We're just channels... nothing is mine... footnotes everywhere... I am Shiva as pure thoughtless thought." Keep humility + Swamiji line; cut fan/water logistics.
+Total C: B 32m + texture ~8m = ~40m. A⊂B⊂C.

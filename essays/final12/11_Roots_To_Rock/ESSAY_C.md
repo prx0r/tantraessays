@@ -1,5 +1,4 @@
-# Roots to Rock Version C — contains all of B + rest
-
+# Essay 11 Version C — contains all of B + rest
 A+B play unchanged.
-
-C adds: Q&A tails, anecdotes, alternate phrasings, room interaction (no chant/tech). Total C: A+B+texture ≈ full lecture select. A⊂B⊂C. Mantra Sanskrit via PDF only.
+## 7. Gorakhnath ethnographic tail + present-day ritual + pen-center anecdote. Keep 3 min color, cut repetition.
+Total C: B 30m + texture ~8m = ~38m. A⊂B⊂C.

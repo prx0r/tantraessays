@@ -1,5 +1,4 @@
-# Devotion That Knows Version C — contains all of B + rest
-
+# Essay 12 Version C — contains all of B + rest
 A+B play unchanged.
-
-C adds: Q&A tails, anecdotes, alternate phrasings, room interaction (no chant/tech). Total C: A+B+texture ≈ full lecture select. A⊂B⊂C. Mantra Sanskrit via PDF only.
+## 7. 17yo ashram story + Shankara hymn + Italian orange + garden/dishes seva + Namaste close. Keep 5 min humanity, cut logistics.
+Total C: B 30m + texture ~10m = ~40m. A⊂B⊂C. No chant (hymn English gloss only).
