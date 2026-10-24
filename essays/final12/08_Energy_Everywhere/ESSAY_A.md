@@ -19,5 +19,4 @@ PLAIN: The heart does not pump blood here. It pulses delight.
 AUDIO: audio/Kundalini_pt2_20111117.mp3 | 00:49:21,139 --> 00:49:29,079 | transcripts/Kundalini_pt2_20111117.txt + .srt
 > "When you're in Shambhavuppaya, you're experiencing pure nirvikalpa. Not a trace of thought consciousness."
 PLAIN: No-thought rest that is not blank. The energy reading lands here. That energy was mapped onto centers — late and early maps differ — Essay 9 next.
-
-Full-section edit: Kundalini pt1 late + pt2 early/mid ≈ 30m raw → cut to ~16m.
+Full-section edit (exact spans, pause-snapped at render): Kundalini_pt1_20111101.mp3: 1 clip(s), 0.4m (00:28:30,000-->00:28:51,940) | Kundalini_pt2_20111117.mp3: 3 clip(s), 1.2m (00:14:04,250-->00:14:36,500, 00:22:59,779-->00:23:29,750, 00:49:21,139-->00:49:29,079) — A total 1.5m, land 10-20m. No chant. PDFs for Sanskrit only.

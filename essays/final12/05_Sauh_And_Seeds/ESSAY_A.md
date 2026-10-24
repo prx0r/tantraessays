@@ -6,7 +6,7 @@ AUDIO: audio/Elucidation_on_Para_Vidya.mp3 | 00:02:07,460 --> 00:02:32,280 | tra
 PLAIN: One syllable pervades everything. Inside it, three powers: will, knowing, doing. Pervasion first, action inside it.
 
 ## 2. elucidation-04 — new creation through Mother (moved from C, gold core)
-AUDIO: audio/Elucidation_on_Para_Vidya.mp3 | ~00:05:00-->00:06:56 window | transcripts/Elucidation_on_Para_Vidya.txt + .srt
+AUDIO: audio/Elucidation_on_Para_Vidya.mp3 | 00:05:07,019 --> 00:05:57,870 | transcripts/Elucidation_on_Para_Vidya.txt + .srt
 > "And you are, through Mother's grace, through this utterance, in which you participate in her nature, creating a new creation."
 > "And remember, that you're doing this for the benefit of the world, and for the benefit of your own enlightenment, so that you can be a benefit to the world."
 PLAIN: Saying it with her makes a pure world — for everyone, and for your own freedom. Same act, both directions.
@@ -22,11 +22,10 @@ AUDIO: audio/Markji_Intro_CIIS_2010.m4a | 00:27:41,109 --> 00:27:54,190 | transc
 PLAIN: Being that knows itself speaks itself. Sounding is how awareness communicates. That is why seeds work.
 
 ## 5. sources-22 — mantra is consciousness energy (board thesis)
-AUDIO: audio/Sources_of_Tantrāloka.mp3 | txt ~531-541 span; verify at render | transcripts/Sources_of_Tantrāloka.txt + .srt
+AUDIO: audio/Sources_of_Tantrāloka.mp3 | 01:28:22,140 --> 01:29:59,979 | transcripts/Sources_of_Tantrāloka.txt + .srt
 > "No, no. Consciousness itself is, the energy of consciousness is mantra."
 > "So mantra, which is a part of a ritual, they'd be understanding as the movement of consciousness from lower levels to higher levels."
 > "They would essentialize and repeat maybe one syllable in order to be very clear as to him."
 PLAIN: Sounding is consciousness moving itself upward. One syllable, clearly held, beats a whole ritual done distractedly. That is why seeds work — and why they can be dropped only at the top.
  Next: what happens with no thought at all (Essay 6).
-
-Full-section edit: Elucidation full 7m + Vyoma 00:06-->00:10 + Markji 00:27-->00:29 = ~14m. Verbatim cores ~1.5m.
+Full-section edit (exact spans, pause-snapped at render): Elucidation_on_Para_Vidya.mp3: 2 clip(s), 1.3m (00:02:07,460-->00:02:32,280, 00:05:07,019-->00:05:57,870) | Markji_Intro_CIIS_2010.m4a: 1 clip(s), 0.2m (00:27:41,109-->00:27:54,190) | Sources_of_Tantrāloka.mp3: 1 clip(s), 1.6m (01:28:22,140-->01:29:59,979) | Vyomavyapin_mantra.mp3: 1 clip(s), 0.3m (00:07:13,370-->00:07:28,909) — A total 3.4m, land 10-20m. No chant. PDFs for Sanskrit only.
