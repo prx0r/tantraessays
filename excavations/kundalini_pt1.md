@@ -5,7 +5,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 
 ## Units
 
-### kundalini-pt1-01 — two streams in the early Tantras [A]
+### kundalini-pt1-01 — two streams in the early Tantras [A] [text:tl:method]
 - timestamp: 00:00:22,710 --> 00:00:36,240
 - topics: history, tantra-comparative
 - role: claim
@@ -13,7 +13,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Opening frame. Everything after hangs on this periodization: later Tantras derive from (continue, develop, lose, change) the early ones.
 - essay_use: Essay cold open — sets up the two-modality key before Kundalini appears.
 
-### kundalini-pt1-02 — Prakriya as modality [C]
+### kundalini-pt1-02 — Prakriya as modality [C] [text:agn:agn]
 - timestamp: 00:01:30,000 --> 00:01:53,219
 - topics: doctrine, tantra-comparative
 - role: claim
@@ -21,7 +21,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Early traditions have modalities (ways of doing), not later-style paths or codes of conduct; implicit or explicit in all Tantric traditions.
 - essay_use: Defines the operative term so "Tantric way vs Kula way" reads as method, not sect.
 
-### kundalini-pt1-03 — the Tantric way and the Kula way [B]
+### kundalini-pt1-03 — the Tantric way and the Kula way [B] [text:tl:method]
 - timestamp: 00:02:21,900 --> 00:02:58,129
 - topics: kundalini, doctrine
 - role: claim
@@ -29,7 +29,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Follows the Prakriya definition; Kula named as Shakti with many senses, here a way of worship, practice, deities, and understanding of reality.
 - essay_use: The fork the whole lecture turns on — quote it before any Kundalini definition.
 
-### kundalini-pt1-04 — the life force of that soul is Kundalini [B]
+### kundalini-pt1-04 — the life force of that soul is Kundalini [B] [text:jitw:work]
 - timestamp: 00:16:58,139 --> 00:17:29,369
 - topics: kundalini, ritual, cosmology
 - role: method
@@ -37,7 +37,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Mandala exposition: icons, jars, fire altars are abodes, never replacing the primary mandala; temple as three-dimensional mandala; center dot is Kundalini.
 - essay_use: Compact mandala→body→Kundalini homology for any essay on ritual space.
 
-### kundalini-pt1-05 — ritual as consolidation of the mandala [C]
+### kundalini-pt1-05 — ritual as consolidation of the mandala [C] [text:tl:method]
 - timestamp: 00:20:30,079 --> 00:20:58,279
 - topics: ritual, mantra
 - role: method
@@ -45,7 +45,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Ritual procedure as systematic explication of the implicit divine; invocation via drawing/placing/unveiling, done through mantra recitation after purifications.
 - essay_use: Use to argue ritual is not decoration but the mandala being built in time.
 
-### kundalini-pt1-06 — Kaula reads everything as energy-activity [A]
+### kundalini-pt1-06 — Kaula reads everything as energy-activity [A] [text:tl:method]
 - timestamp: 00:28:30,000 --> 00:28:51,940
 - topics: kundalini, nonduality
 - role: claim
@@ -53,7 +53,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: The nondualist Kaula gloss on all previously listed Tantric-paradigm features; deity's power named as Kundalini; contrasted with the more dualistic non-Kaula modality.
 - essay_use: Thesis sentence for Kaula nondualism — pairs with the vodka simile he gives next (effect only when drunk/activated).
 
-### kundalini-pt1-07 — Veda means piercing [C]
+### kundalini-pt1-07 — Veda means piercing [C] [text:kub:method]
 - timestamp: 00:56:07,010 --> 00:56:13,250
 - topics: kundalini, initiation
 - role: method
@@ -61,7 +61,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Initiation into Kula cults as penetration of the deity into the worshipper; standard list follows: Chakra-veda, Bindu-veda, Nada-veda, Bhujanga-veda (piercing through chakras, drop, sound, serpent).
 - essay_use: Anchor for the "penetration both ways" passage — glossary-grade one-liner.
 
-### kundalini-pt1-08 — Kula as senses, substance, Shakti, Kundalini [B]
+### kundalini-pt1-08 — Kula as senses, substance, Shakti, Kundalini [B] [text:tl:direct]
 - timestamp: 01:06:28,119 --> 01:06:54,800
 - topics: kundalini, doctrine
 - role: claim
@@ -69,7 +69,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Catalogue of Kula's senses (family, body, consciousness, senses, offering substance, Shakti, Kundalini); points to Tantraloka 29 on Kula practice.
 - essay_use: Shows Kula is not one concept but a chain body→sense→offering→goddess→Kundalini.
 
-### kundalini-pt1-09 — Kula practice only when Kundalini operates [C]
+### kundalini-pt1-09 — Kula practice only when Kundalini operates [C] [text:tl:method]
 - timestamp: 01:11:24,260 --> 01:11:28,119
 - topics: kundalini, praxis, initiation
 - role: practice
@@ -77,7 +77,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: His Swamiji's rule, per his account: Kula ritual (including sexual ritual) is not practice unless Kundalini is awake; otherwise it is ordinary action.
 - essay_use: Gate-keeping quote — use to separate technique from the awake-state that authorizes it.
 
-### kundalini-pt1-10 — the six-chakra model is late, via Serpent Power [C]
+### kundalini-pt1-10 — the six-chakra model is late, via Serpent Power [C] [text:purnanatha:method]
 - timestamp: 01:24:35,319 --> 01:24:42,829
 - topics: history, kundalini
 - role: history
@@ -85,7 +85,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Purnananda's Shat-chakra-nirupana (ch. 6 of Shritattva-chintamani) became the standard six-chakra Kundalini from ~13th–16th c. onward; earlier systems had important variants.
 - essay_use: Historicizes the familiar chakra map — the modern default is a late culmination, not the origin.
 
-### kundalini-pt1-11 — Svadishthana's two triangles [C]
+### kundalini-pt1-11 — Svadishthana's two triangles [C] [text:kub:work]
 - timestamp: 01:36:00,000 --> 01:36:23,699
 - topics: kundalini, praxis
 - role: method
@@ -93,7 +93,7 @@ Thesis question (00:00:01,780 --> 00:00:18,039): "today is 1st November, 2011, a
 - context: Older geography: Kundalini lived in the navel (Manipura, city of gems); Muladhara→Svadishthana spans vagina to uterus mouth; arousal by "striking of the pestle"; mantras per tradition, also on the Buddhist side.
 - essay_use: Best evidence that the diagrams encode physiology — needs careful framing for a general reader.
 
-### kundalini-pt1-12 — three aspects: Chit, Vak, Prana [B]
+### kundalini-pt1-12 — three aspects: Chit, Vak, Prana [B] [text:tl:method]
 - timestamp: 01:51:00,369 --> 01:51:19,430
 - topics: kundalini, mantra, doctrine
 - role: claim

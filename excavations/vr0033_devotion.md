@@ -6,7 +6,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 
 ## Units
 
-### vr0033-01 — the non-dual devotion paradox [A]
+### vr0033-01 — the non-dual devotion paradox [A] [text:agn:agn]
 - timestamp: 00:00:03,120 --> 00:00:51,429
 - topics: devotion, nonduality
 - role: claim
@@ -14,7 +14,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: Opening frame; continues into Utpaladeva as recognition-theorist and hymn-writer.
 - essay_use: Essay cold open — states the paradox (devotee of the God who is his own nature).
 
-### vr0033-02 — Shivoham as relief and gratitude [B]
+### vr0033-02 — Shivoham as relief and gratitude [B] [text:agn:agn]
 - timestamp: 00:03:01,009 --> 00:04:04,150
 - topics: devotion, praxis
 - role: practice
@@ -22,7 +22,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: After the Shankaracharya ashram anecdote; before "Being Shiva, worship Shiva". (Mantra syllables left as sung; use PDF for exact form.)
 - essay_use: Affective core — recognition felt as gratitude/relief, not abstraction.
 
-### vr0033-03 — being Shiva, worship Shiva [B]
+### vr0033-03 — being Shiva, worship Shiva [B] [text:sv:method]
 - timestamp: 00:04:33,600 --> 00:05:27,930
 - topics: devotion, nonduality
 - role: claim
@@ -30,7 +30,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: Kashmiri maxim (whisper gives "Shivo Boutwa, Shiva Miyajit" — not quoted, see PDF); leads into non-dual devotion as ground of all practice.
 - essay_use: Doctrinal one-liner — worship formula for the essay's thesis paragraph.
 
-### vr0033-04 — bhakti means being a part of the Lord [C]
+### vr0033-04 — bhakti means being a part of the Lord [C] [text:agn:agn]
 - timestamp: 00:07:11,959 --> 00:07:29,819
 - topics: devotion, tantra-comparative
 - role: claim
@@ -38,7 +38,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: Etymology before the generosity point (God "doesn't feel humiliated to be you and me").
 - essay_use: Definition unit — devotion as partiality/participation, bridges to Vaishnava comparison.
 
-### vr0033-05 — God in every body, pure and impure set aside [C]
+### vr0033-05 — God in every body, pure and impure set aside [C] [text:agn:agn]
 - timestamp: 00:07:52,620 --> 00:08:27,840
 - topics: devotion, ritual
 - role: claim
@@ -46,7 +46,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: Social consequence of presence-doctrine; immediately qualified by the ethic (if meat distracts you, don't; karmic consequences distract).
 - essay_use: Social-ethic hinge — antinomian risk stated with its own guardrail; pair with vr0033 ethic lines.
 
-### vr0033-06 — oneness is the hardest simplicity [C]
+### vr0033-06 — oneness is the hardest simplicity [C] [text:agn:agn]
 - timestamp: 00:15:00,240 --> 00:15:35,610
 - topics: nonduality, praxis
 - role: simile
@@ -54,7 +54,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: Singing-scale simile (40 years of music, still needed a teacher); answers the "just sit / just relax, be yourself" shortcut.
 - essay_use: Polemical visual — why complexity (reasoning, Tantraloka) exists: to remove complexity.
 
-### vr0033-07 — everything by Shiva's grace, hence servants [C]
+### vr0033-07 — everything by Shiva's grace, hence servants [C] [text:tl:root]
 - timestamp: 00:22:34,529 --> 00:23:00,079
 - topics: devotion, lineage
 - role: lineage
@@ -62,7 +62,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: Abhinavagupta praises teachers then students-as-Shiva; "somehow" (kathamcit) servanthood no one deserves.
 - essay_use: Grace engine — links devotion lecture to anuttara/anupaya (grace-made holiness).
 
-### vr0033-08 — knowing Shiva is loving Shiva [A]
+### vr0033-08 — knowing Shiva is loving Shiva [A] [text:sv:method]
 - timestamp: 00:43:31,139 --> 00:44:19,869
 - topics: devotion, nonduality
 - role: claim
@@ -70,7 +70,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: After the two-candles guru transmission passage; table-and-chair contrast follows (limited knowing, limited love).
 - essay_use: Thesis sentence — collapses jnana/bhakti divide; essay refrain.
 
-### vr0033-09 — no criticism of dualist devotion; we begin separate too [C]
+### vr0033-09 — no criticism of dualist devotion; we begin separate too [C] [text:agn:agn]
 - timestamp: 00:47:27,250 --> 00:47:39,289
 - topics: devotion, tantra-comparative
 - role: refutation
@@ -78,7 +78,7 @@ Note: Sanskrit/Kashmiri verse recitations (e.g. 00:18:06-00:19:28, 00:27:54-00:3
 - context: Answers audience question whether Vaishnava separation-devotion is false; continues via Puranas as first learning.
 - essay_use: Non-sectarian bridge — developmental view (separation as starting point, not error).
 
-### vr0033-10 — any mantra works with devotion, none without [B]
+### vr0033-10 — any mantra works with devotion, none without [B] [text:agn:agn]
 - timestamp: 01:13:30,000 --> 01:14:23,050
 - topics: mantra, devotion
 - role: claim

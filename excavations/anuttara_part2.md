@@ -2,7 +2,7 @@
 
 Companion to anuttara_elucidation.md.
 
-### anuttara-09 — Shambhava beyond thought, Malinivijayottara [B]
+### anuttara-09 — Shambhava beyond thought, Malinivijayottara [B] [text:mvut:root]
 - timestamp: ~00:27:00-00:32:00 (txt 118-122)
 - topics: praxis, doctrine
 - role: claim
@@ -10,7 +10,7 @@ Companion to anuttara_elucidation.md.
 - context: Trika prime authority Malinivijayottara; Akinchitta-chintaka thinking nothing; Abhinavagupta teacher of teachers end-point.
 - essay_use: Definition opener.
 
-### anuttara-10 — means are not enough, Dzogchen warning [C]
+### anuttara-10 — means are not enough, Dzogchen warning [C] [text:agn:agn]
 - timestamp: txt 131-135
 - topics: praxis, tantra-comparative
 - role: refutation
@@ -18,7 +18,7 @@ Companion to anuttara_elucidation.md.
 - context: Kubjika many means worldly-to-liberation; japa felt result not mistake; infinity as-is vs we-here-real work needed.
 - essay_use: Anti-quietism clip.
 
-### anuttara-11 — thought-free requisite even for Samayin [B]
+### anuttara-11 — thought-free requisite even for Samayin [B] [text:tl:method]
 - timestamp: txt 141-144
 - topics: praxis, ritual
 - role: method
@@ -26,7 +26,7 @@ Companion to anuttara_elucidation.md.
 - context: Vivekji mosquito anushthana hours; Yogini counterpart equanimous; pilgrimage Vidya one-pointed; Kramahata/Krama Yoga inner rite fosters flight; mantra via sound stages dissolution; offerings guided by thought-free intention.
 - essay_use: Practice standard — use whole.
 
-### anuttara-12 — three samaveshas [A]
+### anuttara-12 — three samaveshas [A] [text:mvut:root]
 - timestamp: txt 154-174
 - topics: doctrine, praxis
 - role: claim
@@ -34,7 +34,7 @@ Companion to anuttara_elucidation.md.
 - context: Tantraloka I quotes Malinivijaya; Unmana replaced by Anuttara (elevated bridge, not Shambhava-identified); fan/water interruption kept out of quote.
 - essay_use: Three-penetration map.
 
-### anuttara-13 — PhD disclaimer, Swamiji pure thought [C]
+### anuttara-13 — PhD disclaimer, Swamiji pure thought [C] [text:agn:agn]
 - timestamp: txt 187-197
 - topics: lineage, praxis
 - role: lineage

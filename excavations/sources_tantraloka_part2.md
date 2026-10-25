@@ -2,7 +2,7 @@
 
 Companion to sources_tantraloka.md. All quotes verbatim.
 
-### sources-14 — chakra holes, non-linear entry [B]
+### sources-14 — chakra holes, non-linear entry [B] [text:kub:root]
 - timestamp: ~01:05:00-01:08:00 (txt 390-392; srt grep "cavities that go through the chakras")
 - topics: kundalini, cosmology
 - role: claim
@@ -10,7 +10,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Kubjika Tantras observation in Tantraloka 8/9 discussion.
 - essay_use: Non-linear ascent visual.
 
-### sources-15 — full vs partial revelation [C]
+### sources-15 — full vs partial revelation [C] [text:tl:direct]
 - timestamp: txt 394-396
 - topics: doctrine, nonduality
 - role: claim
@@ -18,7 +18,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Tantraloka 1.140-143. Means divided immediate/mediated, total/partial.
 - essay_use: Why three upayas exist.
 
-### sources-16 — three initiations by guna [B]
+### sources-16 — three initiations by guna [B] [text:kub:root]
 - timestamp: txt 404-414
 - topics: initiation, ritual
 - role: method
@@ -26,7 +26,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Kubjika Tantra quote; mixed state = triple command.
 - essay_use: Initiation triage rule.
 
-### sources-17 — body as means [B]
+### sources-17 — body as means [B] [text:tl:direct]
 - timestamp: txt 420-425
 - topics: praxis, doctrine
 - role: claim
@@ -34,7 +34,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Trika alignment of Shiva/power through subject-object; Bogtri/Borgia Upanishadic roots.
 - essay_use: Embodied practice thesis.
 
-### sources-18 — Buddhism phenomenology inspiration [C]
+### sources-18 — Buddhism phenomenology inspiration [C] [text:agn:agn]
 - timestamp: txt 432-433
 - topics: tantra-comparative, doctrine
 - role: refutation
@@ -42,7 +42,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Not Self, but perception: samvedana, svalakshana, subject-object units. Guards against derivation claim.
 - essay_use: Cross-tradition bridge, honest sourcing.
 
-### sources-19 — iconic vs non-iconic Q&A [C]
+### sources-19 — iconic vs non-iconic Q&A [C] [text:agn:agn]
 - timestamp: txt 446-452
 - topics: ritual, tantra-comparative
 - role: story
@@ -50,7 +50,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Q: are sources all iconic? A: pantheons rich, highest view holds both. Para/Parapara/Apara as lightning flashes he wanted drawn; artist months/years to render all deities; Kula aggregate as society of forms.
 - essay_use: Visual theology — why icons + formless together.
 
-### sources-20 — Tantra is what Kula is not [C]
+### sources-20 — Tantra is what Kula is not [C] [text:tl:direct]
 - timestamp: txt 484-489
 - topics: doctrine, history
 - role: claim
@@ -58,7 +58,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Vedic/Vaishnava/Shiva/Kula acharas emergent pre-Abhinavagupta; US sex-question; Kula fundamentals: meat/wine offering+eating, ritual union of enlightened male/female, Kula deities; Tantra devoid of this strand.
 - essay_use: Cleanest Tantra/Kula cut in set.
 
-### sources-21 — Kula as eight families, fractal expansion [A]
+### sources-21 — Kula as eight families, fractal expansion [A] [text:tl:direct]
 - timestamp: txt 507-520
 - topics: yogini, cosmology
 - role: history
@@ -66,7 +66,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Swami Lakshmanjoo heard explanation; 64 Yoginis, millions of forms; essentialized to consciousness expansion; aggregate Samuha politics of divine forms.
 - essay_use: Yogini essay backbone.
 
-### sources-22 — mantra is consciousness energy, both means and goal [A]
+### sources-22 — mantra is consciousness energy, both means and goal [A] [text:ss:root]
 - timestamp: txt 531-541
 - topics: mantra, praxis
 - role: claim
@@ -74,7 +74,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Q: mantra means or goal? A: both; ritualist 24hr Shivaratri vs meditator homologizing; essentialize to one syllable; goal is maintain awareness.
 - essay_use: Mantra board thesis.
 
-### sources-23 — Kula/Kaula split via Matsyendranath [B]
+### sources-23 — Kula/Kaula split via Matsyendranath [B] [text:kjn:root]
 - timestamp: txt 551-565
 - topics: history, lineage
 - role: history
@@ -82,7 +82,7 @@ Companion to sources_tantraloka.md. All quotes verbatim.
 - context: Vidya Pitha Yogini colors/Matrikas; Kali Krama/Trika/Kubjika as Kula-Kaula; Kulanirnaya Kuleshvari nondescript King/Queen; Abhinavagupta independent Kaula venerating Matsyendra in Mangala + Siddha Chakra Guru/Krama mandalas.
 - essay_use: History spine for Kula essay.
 
-### sources-24 — upaya interpenetration + heart fire pervasion [A]
+### sources-24 — upaya interpenetration + heart fire pervasion [A] [text:tl:direct]
 - timestamp: txt 567-601
 - topics: praxis, nonduality
 - role: method

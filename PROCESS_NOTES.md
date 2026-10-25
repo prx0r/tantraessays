@@ -134,3 +134,65 @@ Goal: every line of every transcript graded A/B/C for quotability, so nothing in
 - Essay verbatim audit (final12 A/B/C) untouched by this session: still 122/122.
 - Karma_and_rebirth coverage written fresh this session (434 lines) + full A/B/C with 9 quote-form fixes; Kundalini_pt1 (490) and Sources_of_Tantraloka (651) written fresh, each passing after 1-2 quote fixes.
 - Not yet done from §12 open list: cold-opens/TTS voice, full B/C renders, Chandogya/goldsmith PD pulls, E05/E12 other-box sources, 60m render.
+
+## 14. Session 4 (2026-10-25) — primary-text assignment (the endgame layer)
+
+Owner direction: stop fitting passages to essays; assign every atom to the primary
+source it belongs to, using the rule *"find the primary source that depicts in Sanskrit
+the method he is explaining."* Standard borrowed from `../vatulanatha` (same owner's
+Baumer build): *"audio of a genius talking about a text — using their voice as the
+excuse to finish analyzing a tough text"*; one project = one primary source, covered.
+Vatulanatha's PROCESS_NOTES credits THIS repo (FORMULA, trika_key, excavation schema) —
+the methodology came back hardened: measured-not-assigned question, Sanskrit-first
+screen rule, BUILD ORDER LAW (essay 0 first; supersets never ship), speaker-order = C.
+
+### 14a. primary_map/ — what was built
+- `SCHEMA.md` (tag grammar: `direct/root/method/work/agn` + the agnostic rule),
+  `SOURCES.md` (23-id registry: HELD / SPOKEN / GAP with pull paths),
+  `unit_tags.tsv` (146 rows), `segments.tsv` (72 line-range segments),
+  `tag.py` (idempotent applier, exits 1 on missing uid or unsegmented entry),
+  `TEXT_MAP.md` (stats, per-essay derivation, agnostic resolutions, gap pull-list).
+- Tags land on header/label lines ONLY: `### uid — label [A] [text:bu:root]` and
+  coverage `- L24-27 (label) [text:tl:direct]:`. Quote lines, unit bodies, essay files:
+  untouched — both audits stay green (1421 coverage + 122 essay).
+- Coverage routing: every `- L…` entry in A/B/C inherits its file's line-range segment.
+  Segments are COARSE (dominant text per range, multi-text spans noted); unit tags are
+  the PRECISE layer. Refine per-entry when building a specific text-work.
+- Essay→text derives from uids already embedded in ESSAY_* headings (`## 1. karma-01`):
+  essays got a second axis for free, zero edits. Aliases karma-13a/13b declared in TEXT_MAP.
+
+### 14b. Results worth knowing
+- 146/146 units: root 38 · method 38 · agn 31 · direct 27 · work 12. 23 source-ids.
+- 1683/1683 coverage entries: direct 517 · work 388 · method 329 · root 300 · agn 149.
+- ~52% of coverage routes to HELD+SPOKEN texts (869 held + 112 spoken); 342 to gaps;
+  the single largest unverifiable sink is Mark's unpublished Yogini MS (201 entries —
+  lecture-witnessed only, never citable as a text).
+- **[S] gaps close as SPOKEN**: Baumer clone (`/home/ubuntu/vatulanatha`, cloned this
+  session) holds Śivastotrāvalī ×12 and Parātrīśikā-Vivaraṇa ×10 session srts → E12's
+  and E05's "silent" texts have full audio coverage; text editions remain to pull.
+- Karma file resolved as the worked example of the agnostic rule: general-dying→bu,
+  Brahma-door→chd, golden-hook→siddhanta paddhati, Jambudvipa→purana, two-birds→svs/mnd
+  (Mark's "Ken Upaniṣad" attribution recorded, correct to Mundaka 3.1.1+SVS 4.6 in product),
+  penance→ds Manu; what stayed agn = frame questions, fieldwork testimony, humor.
+
+### 14c. Pitfalls hit (checker bugs AGAIN)
+- `verify_bc.py` was showing 42 BAD: it lowercased quotes but not the source. Patched
+  (cache lowercased + A-level included) → 122 OK. Fourth instance of "verify the verifier
+  before believing red" — hand-test one FAIL against raw substring first.
+- TSV without header row + loader that skips row 1 = silently lost tag (anuttara-01):
+  loader must assert uid-set == header-set, not just subset.
+- Missing column in 12 `agn` segment rows put the NOTE in the kind position → 149
+  malformed tags `[text:agn:<sentence>]`. tag.py must validate tag shape
+  (`\[text:[a-z]+:[a-z]+\]`) after apply, not just count lines.
+- Coordination flag: `vatulanatha/CUTTING-FORMULA.md` is a Dyczkowski @ BHU Tantrāloka
+  cut plan (A/B/C/D grades, D = Sanskrit-as-translation-candidates — port that grade
+  back here). Decide which repo owns BHU lectures before either builds them twice.
+
+### 14d. Repro
+```bash
+python3 primary_map/tag.py                 # idempotent; 146 units, 72 segments
+python3 /tmp/verify_cov.py                 # 1421 ok, 0 miss
+python3 /tmp/verify_bc.py                  # 122 OK, 0 BAD
+grep -c '\[text:' excavations/coverage/*.md | awk -F: '{s+=$2}'   # 1683
+grep -c '\[text:' excavations/*.md        | awk -F: '{s+=$2}'   # 146
+```

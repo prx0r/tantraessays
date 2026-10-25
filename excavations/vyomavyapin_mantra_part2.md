@@ -2,7 +2,7 @@
 
 Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C).
 
-### vyoma-12 — Vyomarupi sky-form [C]
+### vyoma-12 — Vyomarupi sky-form [C] [text:vyom:root]
 - timestamp: ~00:58:00-01:00:00 (txt 233-236)
 - topics: doctrine, cosmology
 - role: mantra-gloss
@@ -10,7 +10,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: Prabhu master, avyaya imperishable, emptiness as form sustained.
 - essay_use: Sky = undifferentiated post-withdrawal.
 
-### vyoma-13 — Sarvavyapine without exception [B]
+### vyoma-13 — Sarvavyapine without exception [B] [text:vyom:root]
 - timestamp: txt 242-244
 - topics: doctrine, nonduality
 - role: mantra-gloss
@@ -18,7 +18,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: Bhairava as all-pervasive because God; Bhava = phenomenal world.
 - essay_use: Immanence thesis — world is Shiva, not unreal.
 
-### vyoma-14 — Shanta tranquil vs Bhairava [C]
+### vyoma-14 — Shanta tranquil vs Bhairava [C] [text:vyom:root]
 - timestamp: txt 255-261
 - topics: doctrine
 - role: mantra-gloss
@@ -26,7 +26,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: Immanent Vyapi to transcendent Shanta shift; universe = activity; no agency = halt.
 - essay_use: Why Shiva means tranquil.
 
-### vyoma-15 — Ananta unborn, others end [C]
+### vyoma-15 — Ananta unborn, others end [C] [text:vyom:root]
 - timestamp: txt 263-280
 - topics: doctrine, cosmology
 - role: mantra-gloss
@@ -34,7 +34,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: Anadi Shiva sadbhava; Supreme Lord because beginningless; all other lords replaceable.
 - essay_use: Eternity argument clip.
 
-### vyoma-16 — Anashrita self-grounded [C]
+### vyoma-16 — Anashrita self-grounded [C] [text:vyom:root]
 - timestamp: txt 270-286
 - topics: doctrine, nonduality
 - role: mantra-gloss
@@ -42,7 +42,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: Anatha orphan pun; Svashrita; no asraya/basis needed.
 - essay_use: Transcendence without elsewhere.
 
-### vyoma-17 — Dhruva pole-star firm [C]
+### vyoma-17 — Dhruva pole-star firm [C] [text:vyom:root]
 - timestamp: txt 287-290
 - topics: cosmology, doctrine
 - role: mantra-gloss
@@ -50,7 +50,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: Vijnana-shikattva; worlds end in Sadashiva.
 - essay_use: Firmness image.
 
-### vyoma-18 — Shashvata praiseworthy cause [C]
+### vyoma-18 — Shashvata praiseworthy cause [C] [text:vyom:root]
 - timestamp: txt 291-297
 - topics: doctrine
 - role: mantra-gloss
@@ -58,7 +58,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: Shash similarity to shas teach; beyond instruction-object yet its cause.
 - essay_use: Epistemology gloss.
 
-### vyoma-19 — Yogapitha seat of mantra-yoga [B]
+### vyoma-19 — Yogapitha seat of mantra-yoga [B] [text:vyom:root]
 - timestamp: txt 301-323
 - topics: praxis, mantra
 - role: mantra-gloss
@@ -66,7 +66,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: 50 years saturated; Sadasiva anamaya defect-free; mantra-yoga conjunction.
 - essay_use: Seat image for practice.
 
-### vyoma-20 — Nityayogi delighted, not detached [B]
+### vyoma-20 — Nityayogi delighted, not detached [B] [text:vyom:root]
 - timestamp: txt 328-344
 - topics: devotion, nonduality
 - role: mantra-gloss
@@ -74,7 +74,7 @@ Companion to vyomavyapin_mantra.md. Lecture English only; chant runs excluded (C
 - context: Anuranjita/raja same root colour/attachment; emotive response, not dogma bliss.
 - essay_use: Feeling God — devotion bridge.
 
-### vyoma-21 — Dhyanahara food is meditation [B]
+### vyoma-21 — Dhyanahara food is meditation [B] [text:vyom:root]
 - timestamp: txt 344-362
 - topics: praxis, doctrine
 - role: mantra-gloss

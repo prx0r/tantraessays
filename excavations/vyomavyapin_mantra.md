@@ -5,7 +5,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 
 ## Units
 
-### vyoma-01 — Trika over Siddhanta over the rest [B]
+### vyoma-01 — Trika over Siddhanta over the rest [B] [text:tl:method]
 - timestamp: 00:07:13,370 --> 00:07:28,909
 - topics: tantra-comparative, doctrine
 - role: claim
@@ -14,7 +14,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Gradation talk; next line extends the ladder down through Vaishnava, Veda, Buddhist.
 - essay_use: Essay ladder visual — every school ranks the others below itself.
 
-### vyoma-02 — liberation by accretion, most after death [B]
+### vyoma-02 — liberation by accretion, most after death [B] [text:tl:root]
 - timestamp: 00:10:30,000 --> 00:10:52,360
 - topics: doctrine, death-rebirth
 - role: claim
@@ -23,7 +23,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Abhinavagupta absorbs lower Shaivism instead of discarding it; ordinary Shaivism leads to videhamukti.
 - essay_use: Frames initiation below as the delayed-liberation path, not a failure.
 
-### vyoma-03 — the layered worlds you climb [B]
+### vyoma-03 — the layered worlds you climb [B] [text:vyom:root]
 - timestamp: 00:12:00,000 --> 00:12:29,360
 - topics: cosmology, initiation
 - role: method
@@ -32,7 +32,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Straightforward model before the subtle account (manas/buddhi/ahamkara, then Maya, then three pure worlds to Shiva-Shakti).
 - essay_use: Core cosmology diagram — earth to senses to Maya to pure worlds.
 
-### vyoma-04 — prana extracted onto the five-knot thread [A]
+### vyoma-04 — prana extracted onto the five-knot thread [A] [text:siddhanta:method]
 - timestamp: 00:13:30,240 --> 00:14:00,639
 - topics: initiation, ritual
 - role: method
@@ -41,7 +41,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Guru extracts the disciple's prana with his own breath; the thread carries the provisional body through the worlds.
 - essay_use: Central initiation-tech visual, pairs with karma-10 golden hook.
 
-### vyoma-05 — reborn into each world, karma lived out [A]
+### vyoma-05 — reborn into each world, karma lived out [A] [text:vyom:root]
 - timestamp: 00:14:30,620 --> 00:14:59,200
 - topics: initiation, mantra
 - role: method
@@ -50,7 +50,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Each mantra-birth gives a world-fitting body; climbing consumes karma instead of merely suppressing it.
 - essay_use: Mantra-as-vehicle thesis — recitation is literal world-travel that burns karma.
 
-### vyoma-06 — music-lesson simile for initiation [A]
+### vyoma-06 — music-lesson simile for initiation [A] [text:agn:agn]
 - timestamp: 00:15:32,620 --> 00:15:57,110
 - topics: initiation, praxis
 - role: simile
@@ -59,7 +59,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: After the world-ascent: the guru shows the goal-state, then the disciple's life-work is daily ritual to stay in it.
 - essay_use: Best simile in the lecture — initiation as a first lesson, practice as rehearsal.
 
-### vyoma-07 — prarabdha karma kept back so you stay alive [B]
+### vyoma-07 — prarabdha karma kept back so you stay alive [B] [text:tl:root]
 - timestamp: 00:17:24,680 --> 00:17:35,140
 - topics: doctrine, death-rebirth
 - role: claim
@@ -68,7 +68,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Follows "if all that karma was gone, you would die"; the retained portion runs its course, then release at death.
 - essay_use: Doctrinal hinge — why the liberated initiate keeps living; cross-read with karma-12/karma-13.
 
-### vyoma-08 — 81 parts over 118 worlds and 36 tattvas [A]
+### vyoma-08 — 81 parts over 118 worlds and 36 tattvas [A] [text:tl:root]
 - timestamp: 00:18:24,380 --> 00:18:52,019
 - topics: mantra, cosmology
 - role: mantra-gloss
@@ -77,7 +77,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Thesis of the whole lecture; Raurava Agama Sangraha last chapter, N.R. Bhatt Pondicherry 1961 ed., 368 syllables, 81 padas each with 1-2 lines of commentary.
 - essay_use: Single-sentence mantra thesis for any essay on Siddhanta ritual technology.
 
-### vyoma-09 — male-dominant Siddhanta, female Bhairava version [C]
+### vyoma-09 — male-dominant Siddhanta, female Bhairava version [C] [text:tl:method]
 - timestamp: 00:22:34,099 --> 00:23:00,269
 - topics: tantra-comparative, mantra
 - role: refutation
@@ -86,7 +86,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Siddhanta keeps energies inherent in the male form; Bhairava Tantras formulate a female version of the mantra series (Shiva's names become Yogini/Kali names).
 - essay_use: Gendered-mantra contrast — use with Yogini lectures on Bhairava/Kali currents.
 
-### vyoma-10 — opening chant run [C]
+### vyoma-10 — opening chant run [C] [text:vyom:direct]
 - timestamp: 00:01:30,049 --> 00:04:32,860
 - topics: mantra, ritual
 - role: practice
@@ -95,7 +95,7 @@ Thesis question: how does reciting one long Siddhanta mantra move the initiate s
 - context: Opening mantra recitation before the lecture; transcript garbles the Sanskrit throughout.
 - essay_use: Cut from essays; play or cite PDF only, never the transliteration.
 
-### vyoma-11 — mid-lecture full mantra recitation [C]
+### vyoma-11 — mid-lecture full mantra recitation [C] [text:vyom:direct]
 - timestamp: 00:32:28,130 --> 00:42:29,690
 - topics: mantra, ritual
 - role: practice

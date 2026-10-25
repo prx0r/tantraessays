@@ -5,7 +5,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 
 ## Units
 
-### sources-01 — Tantraloka in four phrases [B]
+### sources-01 — Tantraloka in four phrases [B] [text:tl:direct]
 - timestamp: 00:01:06,920 --> 00:01:16,439
 - topics: tantraloka, history
 - role: claim
@@ -13,7 +13,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Opening framing after Rastogi's two lectures; sets up his alternative perspective from sources.
 - essay_use: Essay cold open — four definitions in one breath.
 
-### sources-02 — mirroring construction thesis [B]
+### sources-02 — mirroring construction thesis [B] [text:tl:direct]
 - timestamp: 00:01:49,340 --> 00:02:08,520
 - topics: tantra-comparative, tantraloka, history
 - role: claim
@@ -21,7 +21,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Core proposition; prior Kashmiri-only reading misses it, source study reveals it.
 - essay_use: Thesis sentence for any essay on Abhinavagupta as systematizer.
 
-### sources-03 — systems built from systems / Russian dolls [C]
+### sources-03 — systems built from systems / Russian dolls [C] [text:tl:direct]
 - timestamp: 00:02:32,879 --> 00:02:42,900
 - topics: history, tantra-comparative
 - role: simile
@@ -29,7 +29,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Follows rule that large parts of major Tantras are taken from other Tantras; illustrated at 00:06:00,000 --> 00:06:23,600 as folding "like those Russian dolls" where earlier Tantra carries into later one.
 - essay_use: Central mechanism visual — Russian-doll layering of Tantras.
 
-### sources-04 — Kubjika concrete proof [B]
+### sources-04 — Kubjika concrete proof [B] [text:kub:root]
 - timestamp: 00:09:59,519 --> 00:10:16,539
 - topics: history, lineage, tantraloka
 - role: history
@@ -37,7 +37,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: His 20-year editing project; Tantrasadbhāva as 8000-verse cardinal Trika Tantra whose initiation Abhinavagupta received from Shambhunatha.
 - essay_use: Hard evidence unit — borrowing quantified, with teacher-lineage weight.
 
-### sources-05 — Tantra versus Kula Prakriya [A]
+### sources-05 — Tantra versus Kula Prakriya [A] [text:tl:direct]
 - timestamp: 00:10:30,110 --> 00:10:59,850
 - topics: ritual, yogini, tantraloka
 - role: claim
@@ -45,7 +45,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Echoes source pattern where Bhairava Tantras promise "something even more secret which is Kula practice"; Abhinavagupta's extra is Kaulism in Tantraloka 29, stated at 00:12:27,500 --> 00:12:42,139 to center on meat, wine, and sexual fluids of Siddha-Yogini union.
 - essay_use: Explains TL29 placement — Kula as secret inside Bhairava system.
 
-### sources-06 — three categories for all religions [C]
+### sources-06 — three categories for all religions [C] [text:tl:direct]
 - timestamp: 00:15:16,559 --> 00:15:35,600
 - topics: praxis, doctrine
 - role: claim
@@ -53,7 +53,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Inspired by Malinivijayottara and Shambhunatha; introduces Anava, Shakta, Shambhava triad.
 - essay_use: Universalizing move — use to show Abhinavagupta's comparative scope.
 
-### sources-07 — not called upayas in sources [C]
+### sources-07 — not called upayas in sources [C] [text:tl:direct]
 - timestamp: 00:16:30,000 --> 00:17:01,210
 - topics: doctrine, history
 - role: refutation
@@ -61,7 +61,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: In sources they are states (Anava/Shakta/Shambhava condition) or kinds of avesha/samavesha penetration; "upaya" is Abhinavagupta's (or oral-tradition) extension.
 - essay_use: Key philological correction — prevents retrojecting Upaya language.
 
-### sources-08 — Shakta penetration defined [B]
+### sources-08 — Shakta penetration defined [B] [text:mvut:root]
 - timestamp: 00:18:22,019 --> 00:18:32,119
 - topics: praxis, doctrine
 - role: method
@@ -69,7 +69,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Quoting Malinivijaya (TL 1.167-170); Shambhava by thought-free insight, Anava by uccara/karana/dhyana/varna/sthana-kalpana.
 - essay_use: Textbook definition unit — cleanest of the three samavesha glosses.
 
-### sources-09 — permanence criterion [C]
+### sources-09 — permanence criterion [C] [text:tl:direct]
 - timestamp: 00:26:01,039 --> 00:26:11,220
 - topics: nonduality, praxis, tantraloka
 - role: claim
@@ -77,7 +77,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Cardinal difference from Kaula/Krama sources where Shambhava is ultimate; here still in domain of practice while subtle duality remains.
 - essay_use: Doctrinal hinge — why Anuttara must exceed Shambhava.
 
-### sources-10 — rogue tastes rasa [B]
+### sources-10 — rogue tastes rasa [B] [text:tl:direct]
 - timestamp: 00:26:23,619 --> 00:26:35,900
 - topics: nonduality, praxis
 - role: claim
@@ -85,7 +85,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Continued "and is experiencing his beauty, is in the Shambhava state"; even a rogue or cheat tastes it briefly — difference from enlightened is duration, not access.
 - essay_use: Most quotable aesthetics bridge — beauty as inadvertent Shambhava.
 
-### sources-11 — Anupaya as Bhairava-identification [A]
+### sources-11 — Anupaya as Bhairava-identification [A] [text:tl:direct]
 - timestamp: 00:29:29,660 --> 00:29:40,839
 - topics: nonduality, lineage, praxis
 - role: method
@@ -93,7 +93,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: TL 2.39-40; Anupaya as culmination of Shambhava; beholding such a one transmits it; gaze lineage back to Veda via Gonda, Kaula initiation by look.
 - essay_use: Ethics coda — perfection issues in care for the world, plus gaze-transmission link.
 
-### sources-12 — mantras cannot be discarded [C]
+### sources-12 — mantras cannot be discarded [C] [text:tl:direct]
 - timestamp: 00:59:41,139 --> 00:59:47,400
 - topics: mantra, nonduality
 - role: claim
@@ -101,7 +101,7 @@ Thesis question: How did Abhinavagupta build the Tantraloka out of earlier Tantr
 - context: Abhinavagupta drops iconic forms (Buddhidhyana replaces deity visualization) but keeps mantras; whole TL chapter; 50 letters as energies of Aham-vimarsha.
 - essay_use: Essentialization thesis in one line — form goes, sound stays.
 
-### sources-13 — missing now-ness [C]
+### sources-13 — missing now-ness [C] [text:tl:direct]
 - timestamp: 01:04:53,679 --> 01:04:59,500
 - topics: praxis, nonduality, cosmology
 - role: method

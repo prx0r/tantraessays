@@ -5,7 +5,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 
 ## Units
 
-### karma-01 — ultra-modern objection [A]
+### karma-01 — ultra-modern objection [A] [text:agn:agn]
 - timestamp: 00:00:00,000 --> 00:00:22,600
 - topics: death-rebirth, doctrine
 - role: claim
@@ -13,7 +13,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Opening frame. Everything after is his answer.
 - essay_use: Essay cold open — states the stakes for a modern reader.
 
-### karma-02 — dying as Upanishadic laboratory [B]
+### karma-02 — dying as Upanishadic laboratory [B] [text:bu:method]
 - timestamp: ~00:00:22 --> 00:05:49 (txt lines 2-7)
 - topics: history, death-rebirth
 - role: claim
@@ -21,7 +21,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Senses withdrawing one after another; vital force leaving; where the soul goes.
 - essay_use: Establishes dying-observation as empirical root, not dogma.
 
-### karma-03 — Yajnavalkya secret [B]
+### karma-03 — Yajnavalkya secret [B] [text:bu:root]
 - timestamp: 00:05:49,319 --> 00:05:59,959
 - topics: history, death-rebirth
 - role: history
@@ -29,7 +29,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: First incarnation doctrine in Sanskrit texts; "perpetual round of birth and death"; taught as secret because controversial among Vedikas.
 - essay_use: Origin moment — rebirth enters as whisper, not orthodoxy.
 
-### karma-04 — outside Vedic culture / Sramana milieu [B]
+### karma-04 — outside Vedic culture / Sramana milieu [B] [text:sn:method]
 - timestamp: ~00:06:00-00:12:00 (txt 28-37)
 - topics: history, tantra-comparative
 - role: refutation
@@ -37,7 +37,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: 120-130 Sramana sects; constitutive elements (Kesakambalin gross elements vs Buddha dharmas mental+physical).
 - essay_use: De-brahminizes karma — shows plural origins.
 
-### karma-05 — caterpillar/chrysalis/butterfly [A]
+### karma-05 — caterpillar/chrysalis/butterfly [A] [text:bu:root]
 - timestamp: 00:19:02,230 --> 00:19:10,450
 - topics: death-rebirth
 - role: simile
@@ -45,7 +45,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Yajnavalkya's positive image vs annihilation dread.
 - essay_use: Central visual — transformation not transport.
 
-### karma-06 — Yama/Yami origin of death [B]
+### karma-06 — Yama/Yami origin of death [B] [text:rv:root]
 - timestamp: 00:24:00,000 --> 00:24:15,619
 - topics: history, cosmology
 - role: story
@@ -53,7 +53,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Incest, mourning, gods create night/day to abate grief; Yama crosses river, builds golden bridge Hiranyasetu, becomes judge under kadamba tree with flute.
 - essay_use: Mythic infrastructure for judgment/afterlife; bridge to Chitragupta, Tibetan mirror.
 
-### karma-07 — Brahma door / I am you [A]
+### karma-07 — Brahma door / I am you [A] [text:chd:method]
 - timestamp: 00:33:28,440 --> 00:34:28,489
 - topics: praxis, nonduality
 - role: method
@@ -61,7 +61,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Sun -> Brahma-dvara; wrong answer (Raj/Mark) sends you back; Rumi parallel noted.
 - essay_use: Identity-password as practice instruction.
 
-### karma-08 — Mimamsa apurva vs karma [C]
+### karma-08 — Mimamsa apurva vs karma [C] [text:mm:method]
 - timestamp: 00:37:03,949 --> 00:37:22,849
 - topics: doctrine
 - role: refutation
@@ -69,7 +69,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Kumarila later incorporates karma, distinguishes karma/kriya, apurva vs papa/punya penance.
 - essay_use: Shows karma as natural law (niyati) vs ritual technology.
 
-### karma-09 — preta fieldwork / two priests [B]
+### karma-09 — preta fieldwork / two priests [B] [text:agn:agn]
 - timestamp: 00:42:38,940 --> 00:42:48,900
 - topics: ritual, lineage
 - role: story
@@ -77,7 +77,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Mahabrahmana untouchable feeder vs Preta-kalpa reader; Bhairava exorcists, 30 ghost varieties, Teli oil-presser, Brahmin ghost worst; Madagascar/Nuer parallels; Sudhir Kakar uncle case.
 - essay_use: Lived animist substrate under karma theory — best ethnography in set.
 
-### karma-10 — golden hook extraction [A]
+### karma-10 — golden hook extraction [A] [text:siddhanta:method]
 - timestamp: 01:13:32,579 --> 01:14:02,479
 - topics: initiation, ritual
 - role: method
@@ -85,7 +85,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Breath vehicle; apana=jiva at heart; teacher pulls jiva, exhales onto 5-knot thread (yajnopavita-like).
 - essay_use: Core initiation tech visual.
 
-### karma-11 — Vyomavyapin world-travel consumes karma [A]
+### karma-11 — Vyomavyapin world-travel consumes karma [A] [text:vyom:root]
 - timestamp: 01:15:22,739 --> 01:15:35,979
 - topics: initiation, cosmology, mantra
 - role: method
@@ -93,7 +93,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Soul reborn tattva by tattva with apt body; thread burnt knot by knot; karma+mala consumed; teacher inhales purified soul, conjoins to Shiva, replaces in heart.
 - essay_use: Links Karma lecture directly to Vyomavyapin lecture — cross-link.
 
-### karma-12 — Karma-bhumi / only here you can act [B]
+### karma-12 — Karma-bhumi / only here you can act [B] [text:purana:method]
 - timestamp: 01:07:30,000 --> 01:07:59,980
 - topics: cosmology, praxis
 - role: claim
@@ -101,7 +101,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Other worlds = experience only; rituals eliminate karma but good karma still binds; need exhaustion.
 - essay_use: Why human birth matters — essay hinge.
 
-### karma-13 — mala as substance, levels to Shiva [B]
+### karma-13 — mala as substance, levels to Shiva [B] [text:tl:root]
 - timestamp: ~01:08:40-01:22:00 (txt 295-320)
 - topics: doctrine, cosmology
 - role: claim
@@ -109,7 +109,7 @@ Thesis question (00:00:00-->00:00:22): "Must Kashmir Shaivism depend on the theo
 - context: Anava/karma/mayi mala; Maya as Sankhya-like substance; tattvas to Maya then pure; Kashmiri nondual: impurity = objectivity/difference, lack of free consciousness.
 - essay_use: Doctrinal core for essay on impurity.
 
-### karma-14 — samanya vs vishesha + personal belief [B]
+### karma-14 — samanya vs vishesha + personal belief [B] [text:tl:root]
 - timestamp: 01:28:30,000 --> 01:28:57,159
 - topics: doctrine, lineage
 - role: lineage

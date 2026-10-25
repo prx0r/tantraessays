@@ -6,7 +6,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 
 ## Units — anuttara (uid anuttara-..)
 
-### anuttara-01 — turn and face the Divine, any moment [C]
+### anuttara-01 — turn and face the Divine, any moment [C] [text:agn:agn]
 - timestamp: 00:12:59,360 --> 00:13:27,649
 - topics: praxis, devotion
 - role: practice
@@ -14,7 +14,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Framing exhortation after logistics; grounds the whole dense exposition in a present-tense choice.
 - essay_use: Opener — infinite possibility "just as we are"; low-bar entry to Anuttara.
 
-### anuttara-02 — Abhinavagupta names his lineage Anuttara [C]
+### anuttara-02 — Abhinavagupta names his lineage Anuttara [C] [text:tl:root]
 - timestamp: 00:18:46,319 --> 00:19:16,279
 - topics: lineage, doctrine
 - role: lineage
@@ -22,7 +22,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Excellence as today's aspect of infinite being; continues into Krama/Kula transmission claim.
 - essay_use: Lineage anchor — why the school is literally named "unsurpassable".
 
-### anuttara-03 — unimpelled, for no purpose, gives rise to all [C]
+### anuttara-03 — unimpelled, for no purpose, gives rise to all [C] [text:tl:root]
 - timestamp: 00:20:13,789 --> 00:20:50,190
 - topics: doctrine, cosmology
 - role: claim
@@ -30,7 +30,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Etymology of an-uttara; continues into ocean-without-shores image and rivers of transmission.
 - essay_use: Etymology unit — freedom (unimpelled) as generative ground; pair with ocean simile.
 
-### anuttara-04 — nothing higher; no reply [C]
+### anuttara-04 — nothing higher; no reply [C] [text:tl:root]
 - timestamp: 00:23:44,609 --> 00:23:58,740
 - topics: doctrine, nonduality
 - role: claim
@@ -38,7 +38,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Supreme = completion/end of all creation down to bacteria and subatomic particles; leads to "no name / every name" and beyond-words.
 - essay_use: Apophatic hinge — supremacy stated as unsayability (no uttara = no reply).
 
-### anuttara-05 — sky on top of Everest; end of sixteen [B]
+### anuttara-05 — sky on top of Everest; end of sixteen [B] [text:tl:root]
 - timestamp: 00:25:30,000 --> 00:26:01,839
 - topics: kundalini, cosmology
 - role: simile
@@ -46,7 +46,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Mountain-climb simile for Kundalini ascent; twelve fingers above head, end of twelve vs end of sixteen (limit of supreme energy).
 - essay_use: Central visual — ascent capped by a jump; cross-link to Kundalini pt1 (tattvas/worlds).
 
-### anuttara-06 — joy of awareness is the bliss of emanation [B]
+### anuttara-06 — joy of awareness is the bliss of emanation [B] [text:tl:root]
 - timestamp: 00:30:00,000 --> 00:30:35,779
 - topics: doctrine, praxis
 - role: claim
@@ -54,7 +54,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Answers "what is God" (Ukraine visitors): Shiva = our consciousness; emptiness emanates everything, hence bliss; Shiva-Shakti emission taste.
 - essay_use: Experiential proof — meditation joy as tasting the source; links Anuttara-source to devotion wine.
 
-### anuttara-07 — application to the full and perfect makes no sense [C]
+### anuttara-07 — application to the full and perfect makes no sense [C] [text:agn:agn]
 - timestamp: 01:15:00,210 --> 01:15:13,850
 - topics: praxis, tantraloka
 - role: claim
@@ -62,7 +62,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Tantraloka 2 "abandon all application" (anupaya); the sanctified on the Anuttara path are independent of means; only world-welfare remains.
 - essay_use: Anupaya thesis — culmination of shambhava means; direct cross-link to vr0033-07 (grace).
 
-### anuttara-08 — opening devotional recitation [C]
+### anuttara-08 — opening devotional recitation [C] [text:agn:agn]
 - timestamp: 00:00:03,770 --> 00:00:27,609
 - topics: devotion
 - role: practice
@@ -72,7 +72,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 
 ## Units — elucidation on Para Vidya (uid elucidation-..)
 
-### elucidation-01 — Aum as door and acceptance [C]
+### elucidation-01 — Aum as door and acceptance [C] [text:pt:method]
 - timestamp: 00:00:16,199 --> 00:00:23,589
 - topics: mantra, devotion
 - role: mantra-gloss
@@ -80,7 +80,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Opens the Om Sau Parayai Namah gloss; Aum as solemn acceptance (Amen parallel), not power-boost.
 - essay_use: Mantra-essay opener — Aum as consent/door before the bija.
 
-### elucidation-02 — Sau pervades; Au is will, knowledge, action [A]
+### elucidation-02 — Sau pervades; Au is will, knowledge, action [A] [text:pt:method]
 - timestamp: 00:02:07,460 --> 00:02:32,280
 - topics: mantra, cosmology
 - role: mantra-gloss
@@ -88,7 +88,7 @@ Note: opening devotional recitation (anuttara 00:00:03-00:06:01) and Sanskrit ve
 - context: Seed-of-creation gloss; emission through three energies into pervasive consciousness.
 - essay_use: Doctrinal gloss — one-sentence Sau metaphysics for mantra essays.
 
-### elucidation-03 — each Sau blesses the world [B]
+### elucidation-03 — each Sau blesses the world [B] [text:pt:method]
 - timestamp: 00:03:39,930 --> 00:04:08,069
 - topics: mantra, praxis
 - role: mantra-gloss

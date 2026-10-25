@@ -7,7 +7,7 @@ Sources:
 
 ## Units — Yogini part1
 
-### yogini1-01 — Bhairava Srotas marked by Yogini worship [B]
+### yogini1-01 — Bhairava Srotas marked by Yogini worship [B] [text:yms:work]
 - timestamp: 00:00:35,679 --> 00:01:07,650
 - topics: yogini, history, lineage
 - role: claim
@@ -16,7 +16,7 @@ Sources:
 - grade: A
 - essay_use: One-line identifier for Bhairava current; use to open Yogini essay.
 
-### yogini1-02 — never a deity, they are the Gana [C]
+### yogini1-02 — never a deity, they are the Gana [C] [text:yms:work]
 - timestamp: 00:01:30,849 --> 00:02:01,379
 - topics: yogini, ritual, devotion
 - role: claim
@@ -25,7 +25,7 @@ Sources:
 - grade: A
 - essay_use: Court simile — deity as king never alone; use for mandala sociology.
 
-### yogini1-03 — one Yogini becomes Mahadevi [B]
+### yogini1-03 — one Yogini becomes Mahadevi [B] [text:yms:work]
 - timestamp: 00:03:28,159 --> 00:03:59,400
 - topics: yogini, devotion, history
 - role: story
@@ -34,7 +34,7 @@ Sources:
 - grade: A
 - essay_use: Elevation mechanism — how polytheism generates monotheism without merger; key for Kali essay.
 
-### yogini1-04 — societies form spontaneously, Buddhist same [C]
+### yogini1-04 — societies form spontaneously, Buddhist same [C] [text:agn:agn]
 - timestamp: 00:05:30,620 --> 00:05:39,399
 - topics: yogini, tantra-comparative, ritual
 - role: claim
@@ -45,7 +45,7 @@ Sources:
 
 ## Units — Roots and Development of Tantras
 
-### roots-01 — Kapalika cremation-ground root [B]
+### roots-01 — Kapalika cremation-ground root [B] [text:kapalika:method]
 - timestamp: 00:01:30,000 --> 00:01:58,780
 - topics: history, ritual, tantra-comparative
 - role: history
@@ -54,7 +54,7 @@ Sources:
 - grade: A
 - essay_use: Origin anchor — start Tantras story in cremation ground, not monastery; use with Nathas/Kabir emptiness frame.
 
-### roots-02 — Kundalini the vital connecting link [C]
+### roots-02 — Kundalini the vital connecting link [C] [text:kub:method]
 - timestamp: 00:05:24,840 --> 00:05:51,040
 - topics: kundalini, praxis, nonduality
 - role: claim
@@ -63,7 +63,7 @@ Sources:
 - grade: A
 - essay_use: Hinge — Kundalini as method of interiorization; use to pivot outer to inner.
 
-### roots-03 — emptiness to emptiness through emptiness [C]
+### roots-03 — emptiness to emptiness through emptiness [C] [text:agn:agn]
 - timestamp: 00:09:57,259 --> 00:10:10,799
 - topics: doctrine, kundalini, nonduality
 - role: claim
@@ -72,7 +72,7 @@ Sources:
 - grade: A
 - essay_use: Central metaphysics quote — active void; best short text for emptiness essay.
 
-### roots-04 — Gorakhnath strips to emptiness and physiology [B]
+### roots-04 — Gorakhnath strips to emptiness and physiology [B] [text:natha:method]
 - timestamp: 00:19:49,839 --> 00:20:01,000
 - topics: history, kundalini, praxis
 - role: history
@@ -83,7 +83,7 @@ Sources:
 
 ## Units — Shiva Sutra Introduction
 
-### shivasutra-01 — rock revelation as Terma model [B]
+### shivasutra-01 — rock revelation as Terma model [B] [text:ss:direct]
 - timestamp: 00:00:54,420 --> 00:01:14,379
 - topics: history, lineage, tantra-comparative
 - role: story
@@ -92,7 +92,7 @@ Sources:
 - grade: A
 - essay_use: Cross-tradition hook — Kashmir revelation reads as Terma; use to open Shiva Sutra essay.
 
-### shivasutra-02 — heart sanctified by Yogini-Siddha lineage [B]
+### shivasutra-02 — heart sanctified by Yogini-Siddha lineage [B] [text:ss:method]
 - timestamp: 00:06:00,000 --> 00:06:09,980
 - topics: lineage, yogini, shiva-sutras
 - role: lineage
@@ -101,7 +101,7 @@ Sources:
 - grade: A
 - essay_use: Lineage credential — Shiva Sutras rooted in Yogini-Siddha Kaula, not isolated aphorisms; links all three lectures.
 
-### shivasutra-03 — secret nondual tradition against dualistic world [C]
+### shivasutra-03 — secret nondual tradition against dualistic world [C] [text:ss:direct]
 - timestamp: 00:09:32,460 --> 00:09:59,100
 - topics: nonduality, history, shiva-sutras
 - role: claim
@@ -110,7 +110,7 @@ Sources:
 - grade: A
 - essay_use: Stakes statement — why secret exists; use as essay mission paragraph.
 
-### shivasutra-04 — first sutra: no man-God difference, self is consciousness [C]
+### shivasutra-04 — first sutra: no man-God difference, self is consciousness [C] [text:ss:root]
 - timestamp: 00:17:14,140 --> 00:17:25,079
 - topics: shiva-sutras, nonduality, doctrine
 - role: doctrine

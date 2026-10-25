@@ -5,7 +5,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 
 ## Units
 
-### bhairava-01 — where the breath ends and begins [C]
+### bhairava-01 — where the breath ends and begins [C] [text:agn:agn]
 - timestamp: 00:03:43,670 --> 00:03:50,930
 - topics: praxis, mantra
 - role: method
@@ -14,7 +14,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 - context: Gloss of kumbhaka verse (exhale ended, inhale about to rise); yogi = the patient one who pays attention in the gap.
 - essay_use: Breath-gap instruction — pairs with vyoma breath/prana extraction tech.
 
-### bhairava-02 — refuge of the masterless [C]
+### bhairava-02 — refuge of the masterless [C] [text:bs:root]
 - timestamp: 00:10:04,799 --> 00:10:09,700
 - topics: devotion, mantra
 - role: mantra-gloss
@@ -23,7 +23,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 - context: Glosses Bhairavanatha Anathasharanya — anata means without master, also orphan; one consciousness (chinmaya, ananta, anadi) pervading moving and immobile things.
 - essay_use: Devotional hook — Bhairava as shelter for those with no other lord.
 
-### bhairava-03 — fear ends with one-without-a-second [C]
+### bhairava-03 — fear ends with one-without-a-second [C] [text:bs:direct]
 - timestamp: 00:19:57,559 --> 00:20:07,279
 - topics: nonduality, history
 - role: story
@@ -32,7 +32,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 - context: Brihadaranyaka parallel (self alone, frightened, then no-second so nothing to fear); all things entered into one's own nature leaves no door for samsaric fear even amid masses of karma.
 - essay_use: Upanishad bridge for a fearlessness essay; cross-read karma-05/karma-07.
 
-### bhairava-04 — gratitude as the ingredient of worship [C]
+### bhairava-04 — gratitude as the ingredient of worship [C] [text:bs:direct]
 - timestamp: 00:53:30,380 --> 00:53:58,440
 - topics: devotion, praxis
 - role: practice
@@ -41,7 +41,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 - context: Closing instruction in Swamiji's lineage style — do your mantra, keep a peaceful life, stay immersed in God-consciousness; yoga as worship.
 - essay_use: Practice coda — quotable close on mantra + breath + gratitude.
 
-### recitation-01 — full Abhinavagupta stava chant [C]
+### recitation-01 — full Abhinavagupta stava chant [C] [text:bs:direct]
 - timestamp: 00:00:01,810 --> 00:06:18,079
 - topics: devotion, ritual
 - role: practice
@@ -50,7 +50,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 - context: Straight recitation of the Bhairavastava to samaptam; transcript is rough transliteration.
 - essay_use: Cut from essays; audio/practice value only, never quote the whisper text.
 
-### markji-00 — mic check + host introduction [C]
+### markji-00 — mic check + host introduction [C] [text:agn:agn]
 - timestamp: 00:00:08,490 --> 00:00:17,289
 - topics: lineage
 - role: history
@@ -59,7 +59,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 - context: First ~9m is Kirk Templeton CIIS/ACS intro of Mark (00:00:45-00:01:52), not Mark's teaching; cut for any public edit.
 - essay_use: Cut — start clips at 00:09:17 where Mark begins.
 
-### markji-01 — Abhinavagupta among the greatest minds [B]
+### markji-01 — Abhinavagupta among the greatest minds [B] [text:agn:agn]
 - timestamp: 00:03:53,939 --> 00:04:07,199
 - topics: lineage, history
 - role: lineage
@@ -68,7 +68,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 - context: Opening framing after thanks; Kashmir 9th-11th c. exegesis, aesthetics, and an unparalleled philosophy of consciousness.
 - essay_use: Essay cold open for any Abhinavagupta piece.
 
-### markji-02 — the light that illumines [C]
+### markji-02 — the light that illumines [C] [text:tl:direct]
 - timestamp: 00:20:01,470 --> 00:20:11,369
 - topics: doctrine, nonduality
 - role: simile
@@ -77,7 +77,7 @@ Thesis question: what does Abhinavagupta's Bhairava hymn actually teach — brea
 - context: Kashmiri Shaiva exegetical model shared with Neoplatonists/Plotinus; one light shining as subject-means-object triad, dynamic yet formless.
 - essay_use: Central metaphor — consciousness as self-illumining light, glossed by markji-03.
 
-### markji-03 — being-knowing is speech [B]
+### markji-03 — being-knowing is speech [B] [text:tl:direct]
 - timestamp: 00:27:41,109 --> 00:27:54,190
 - topics: mantra, nonduality
 - role: claim

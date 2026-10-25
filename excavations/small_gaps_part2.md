@@ -1,7 +1,7 @@
 # Small gaps — tails worth keeping
 
 ## Elucidation tail
-### elucidation-04 — new creation through Mother [B]
+### elucidation-04 — new creation through Mother [B] [text:pt:method]
 - timestamp: txt 17-24 (srt 00:05:00-->00:06:56 span)
 - topics: praxis, devotion
 - role: practice
@@ -10,7 +10,7 @@
 - essay_use: Benefit beings framing.
 
 ## Markji tail
-### markji-04 — vimarsha, time not space [B]
+### markji-04 — vimarsha, time not space [B] [text:tl:direct]
 - timestamp: txt 124-155 (srt 00:27:35-->00:36:45)
 - topics: doctrine, nonduality
 - role: claim
@@ -19,7 +19,7 @@
 - essay_use: Time/eternity thesis.
 
 ## VR0033 closing
-### vr0033-11 — Kashi special, Tarak mantra [B]
+### vr0033-11 — Kashi special, Tarak mantra [B] [text:ss:method]
 - timestamp: txt 204-255 (srt 01:13:08-->01:27:45 tail)
 - topics: lineage, devotion
 - role: story
@@ -28,7 +28,7 @@
 - essay_use: Place + mantra + devotion=knowledge close.
 
 ## Yogini2 tail — Ananda/Visarga (MAJOR)
-### yogini2-11 — Ananda is Brahman, sexual proof [B]
+### yogini2-11 — Ananda is Brahman, sexual proof [B] [text:agn:agn]
 - timestamp: txt 311-360 (srt 01:27:33-->01:40:00 approx)
 - topics: doctrine, tantra-comparative
 - role: claim
@@ -36,7 +36,7 @@
 - context: Temples naked women no problem; Brihadaranyaka Shatapatha sum-up; Retas birth.
 - essay_use: Ananda etymology opener.
 
-### yogini2-12 — Visarga emission, Urmi waves, five Krama wheels [A]
+### yogini2-12 — Visarga emission, Urmi waves, five Krama wheels [A] [text:spk:method]
 - timestamp: txt 360-389 (srt 01:40:00-->01:45:04)
 - topics: cosmology, kundalini
 - role: claim
@@ -45,7 +45,7 @@
 - essay_use: Emission cosmology core.
 
 ## Shiva Sutra Dakshina
-### shivasutra-05 — Dakshina Kapalika sadhana [C]
+### shivasutra-05 — Dakshina Kapalika sadhana [C] [text:kapalika:method]
 - timestamp: txt 63-84 (srt 00:11:53-->00:17:50)
 - topics: history, ritual
 - role: history
