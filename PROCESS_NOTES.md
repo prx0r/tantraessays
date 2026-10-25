@@ -191,8 +191,8 @@ screen rule, BUILD ORDER LAW (essay 0 first; supersets never ship), speaker-orde
 ### 14d. Repro
 ```bash
 python3 primary_map/tag.py                 # idempotent; 146 units, 72 segments
-python3 /tmp/verify_cov.py                 # 1421 ok, 0 miss
-python3 /tmp/verify_bc.py                  # 122 OK, 0 BAD
+python3 tools/verify_cov.py                # 1421 ok, 0 miss  (scripts moved off /tmp — M12 scar)
+python3 tools/verify_bc.py                 # 122 OK, 0 BAD
 grep -c '\[text:' excavations/coverage/*.md | awk -F: '{s+=$2}'   # 1683
 grep -c '\[text:' excavations/*.md        | awk -F: '{s+=$2}'   # 146
 ```
