@@ -100,3 +100,37 @@ Read every essay as if first time, then harden. 20/20 todos. What changed and wh
 - Primary: E01 PD full, E02 RV 10.10 (parallel commit), E03/E04/E06/E07/E08/E09/E11 [V] banked from local Dyczkowski texts, E05/E12 [S] honest. Parallel agent's lit reviews (Wallis/MVUT/KJnN) in per-essay PRIMARY_LIT.
 - Still open: (1) record Human cold-opens/bridges + TTS key-voice (paper-ready in SPEAKERS.md, ~2-3m/essay); (2) full B/C renders (engine proven); (3) Chandogya sun-door + goldsmith full stanza PD pull; (4) E05 Triṃśikā + E12 Śivastotravali from other box; (5) 60m+ full-length render pass once voice exists.
 - Repro after any edit: `python3 /tmp`-style audit (normalize both sides, AUDIO-basename dict) must read 122/122 or your edit broke verbatim; `grep -c '^### ' excavations/*.md` = 146; grades A25/B55/C66; `git ls-files primary/texts primary/books` = 0.
+
+## 13. Session 3 (2026-10-25) — 100% transcript coverage (all 15 files, 3,951/3,951 lines)
+Goal: every line of every transcript graded A/B/C for quotability, so nothing in the corpus is unmined and essays can draw from anywhere.
+
+### 13a. What a coverage file is
+- Location: `excavations/coverage/<base>.md`, one per transcript (filename without the `ā` for Sources_of_Tantrāloka). Header: `# <base>.txt — full coverage (N lines, ~W words)`, then a 1-paragraph session summary, then `Tier note:` (A/B/C = product quotability, independent of global unit grades), sections `## A — gold` / `## B — worth including` / `## C — worth mentioning / unusable`, footer `Coverage: N/N lines graded.` + quarantine list + explicit-flags + cross-file pairs.
+- A entries: line ref (Lx-Ly) + label in parens (themes/E-essay hooks) + one or more verbatim `> "..."` quote blocks. B: line refs + 5-15 word prose labels (optionally a clean quote). C: line refs + why (room/garble/repetition/chant/numerals).
+- Every line of the transcript must appear in at least one entry (edge double-grading across A/B/C boundaries is fine and normal).
+
+### 13b. The audit loop (this session's core mechanic)
+- Canonical verifier: `/tmp/verify_cov.py` — normalizes BOTH sides (`re.sub(r'\s+',' ',s).strip().lower()`), globs all coverage files, header regex `# (\S+?)\.txt`, reports `verbatim: N ok, M miss`. Final run this session: **1421 ok, 0 miss** across all 15 files.
+- Every quote that fails gets a binary-search span diagnosis: find longest matching prefix, print 50 chars around the break from BOTH my quote and the source. This pinpointed real transcript forms in seconds. Failure taxonomy seen this session: dropped/added period at line-splits ("literature. in Vedic" not "literature in Vedic"), line-break word repeats ("in which... In which", "he was then THE judge", "the other ONE is watching"), wrong-name forms ("Kashmiri" not "Kashmir", "Shaiva Siddhant and an initiate", "consciousness IS pure"), fabricated quote-tails (a question I paraphrased that the speaker never said — delete, don't patch), comma-vs-period ("stuff like that," not "stuff like that.").
+- Duplicated quotes: fixes must replace ALL occurrences (files quote the same line in A and B sometimes) — use `str.replace` with count printout, never blind sed.
+- After fixes: re-run verifier until 0 miss, then update the footer (remove any "needs verify" pointer notes — L433 modern-person pointer in Karma resolved and footer edited).
+
+### 13c. Line-count spot-check (do this before claiming done)
+- For each transcript: `wc -l transcripts/*.txt` must equal the `Coverage: N/N` footer in the matching coverage file. Session-3 result: 15/15 match (19 to 651 lines each, 3,951 total).
+
+### 13d. Coverage rubric calibration (learned across the two new big files)
+- Never quote chant/hallucination lines (Sources L225 chant-line, Vyomavyapin recitation) — C + NEVER QUOTE.
+- Repetition quarantines are per-file and go in the footer with counts: Kundalini_pt1 L52 "Tantric practice" x~50, L199 "Dhamra" x~40; Sources L508 "eight families" x~40, L167-169 "It is." x3, L364-369 "Okay." x5, L480-482 "Tantra..." x3. Bare-numeral lines (Kundalini L302-309/L474-477) → C.
+- Explicit content: always grade B, never A, and label in the entry "EXPLICIT — summarize, never center" (Kundalini anatomy/fluids/caste lines, Sources TL-29 content, Yogini explicit blocks). Sources L46 (TL-29 meat/wine/fluids) is quotable AS-IS because he prefaces it with "I'm not advertising that. I'm just simply stating."
+- Room-runs (Thank you/Okay/time-checks/book-finding) → C room; a single "Thank you." can be C without comment.
+- Guided-meditation passages (Sources L582-601 heart-fire-pervasion walkthrough) are A-gold — they are the product's workshop material.
+- Classroom Q&A exchanges with the audience are often A-gold (Sources deified-dead exchange, gunas answer) — grade Q and A-answers as pairs.
+
+### 13e. Task-tool subagent failure (recorded again)
+- Subagents returned empty results for coverage mining (same as earlier sessions). Do coverage work solo: read transcript fully with the Read tool (250-line chunks), write file, run verifier, diagnose, fix. 490+651-line files each took one full read + one write + one fix loop.
+
+### 13f. State at session-3 end
+- `excavations/coverage/`: 15 files, 3,951/3,951 lines graded, 1,421 verbatim quotes all passing.
+- Essay verbatim audit (final12 A/B/C) untouched by this session: still 122/122.
+- Karma_and_rebirth coverage written fresh this session (434 lines) + full A/B/C with 9 quote-form fixes; Kundalini_pt1 (490) and Sources_of_Tantraloka (651) written fresh, each passing after 1-2 quote fixes.
+- Not yet done from §12 open list: cold-opens/TTS voice, full B/C renders, Chandogya/goldsmith PD pulls, E05/E12 other-box sources, 60m render.
