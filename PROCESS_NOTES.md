@@ -53,3 +53,50 @@ A⊂B⊂C always — B starts "A plays unchanged", C starts "A+B play unchanged"
 
 ## 10. What "done" looks like (per essay)
 RANKING + FLOW + ESSAY_A/B/C (A⊂B⊂C) + SCRIPT_3LAYER (primary→Mark→plain, plain key-compliant, no Sanskrit spoken) + PRIMARY_LIT (primary/scholarly/area) + FULL_SECTIONS (ffmpeg -ss/-to, pause-snap note) + SPEAKERS (Mark clips + Human ~2-3min + key-only) + cutplan.json. Essay 1 + 2 meet this. Essay 3 meets it except primary verbatims for Raurava/paddhati (cite-only, correctly — no PD English exists). Essays 04-12 meet structure + A clips + refs; plain sentences + primary verbatims where PD remain. Do not claim C done until B clip lists are explicit (01-03 are; 04-12 B files are deltas — acceptable) and every timestamp re-grepped after any edit.
+
+## 11. Session 2 (2026-10-24 late) — first-time read, spans, depth, imports
+Read every essay as if first time, then harden. 20/20 todos. What changed and why:
+
+### 11a. First-time read pass (per-essay seams)
+- Method: read ESSAY_A cold, question every join, test each beat in ≤10 words, restructure in place (FLOW+ESSAY_A/B/C+SCRIPT), wire explicit handoffs 01→12 ("Next: … (Essay N)"). Stale cross-refs killed (E02's "worlds → Essay 6" was wrong; became travel/burn → Essay 3).
+- Fixes worth copying: E01 dropped markji-03 speech beat (broke rebirth flow → moved to E05, permanent). E04 reordered answer→root→trace→scale→workshop (cold-open the answer first). E03 split one merged beat into karma-11 (mantra moves soul) + vyoma-05 (ladder burn) — two quotes, two AUDIO lines. E09 beat 1 had 2 quotes in one 10.3m window → split to two AUDIO lines (01:24:30→01:24:42 + 01:34:39→01:34:47), total dropped 13.0m→3.1m. Multi-quote beats ALWAYS get one window per quote, never min(start)→max(end) across a gap.
+- Orphan check after restructure: `set(A-uids) − set(uids-in-final12)` caught sources-22, vyoma-06, yogini2-08 unplaced → sources-22 became E05 beat 5, vyoma-06 into E03-B, yogini2-08 stays C of E05/E19 ref. Run this check after ANY move.
+
+### 11b. Exact spans (78→122 quotes)
+- A-files: every AUDIO line now `HH:MM:SS,mmm --> HH:MM:SS,mmm` resolved from srt (head/tail fragment lookup per quote). Verified 78/78 after rewrite. Footers recomputed from actual spans (A cuts: 1.5–5.7m verbatim per essay, 49.5m total) — old "~19m windows" prose deleted; footer format = per-audio clip counts + spans + "A total Xm, land 10-20m".
+- span_for rule: head and tail looked up INDEPENDENTLY across blocks; merge only if gap ≤300s else keep head-block only (prevents a 10m false window when tail matches an unrelated block).
+- B/C expansion: 9 essays had empty/stub B/C (5 of 9 zero-B, 8 of 9 zero-C). Rebuilt all to one-verbatim-quote-per-beat with spans (±10s head/+15s tail for A; ±30/60 for B/C). Final: **122/122 verbatim A+B+C, 0 repeats-A, 121 windows ≈ 97m**, EXTRACTS.md per essay (per-quote windows, AUDIO/TRANSCRIPT dirs, "never from memory").
+- Fix loop caught 3 real transcription-seam errors (E05 dropped period "Supreme. Para means Supreme. Sao…", E11B "he refers" not "But he calls", E11C "original format" truncated) — expand to exact sentence, never paraphrase the join.
+
+### 11c. Audit-tool lessons (verify the verifier)
+- Bug 1: source lowercased only on cache-miss → false "42/44 FAIL". Bug 2: quick-check dict missing Yogini_part1.mp3 → false "2 FAIL". True defect count was 3. BEFORE believing a red/green from your own checker: hand-test one FAIL against `grep`/substring in the raw source. Checker bugs outnumbered real bugs 42:3.
+- Canonical audit now: normalize BOTH sides (`\s+→' `, lower), dict keyed by AUDIO basename (not audio/ path), per-level loop A/B/C, report per-file `ok/n`. Last run post-rebase: 122 OK / 0 BAD.
+
+### 11d. Render proof (first real audio)
+- `essays/final12/02_.../render_proof.mp3`: 4 clips cut with `ffmpeg -ss/-to -c copy`, concat list, `afade in/out 0.15s + loudnorm=I=-16:TP=-1.5:LRA=11` → 196.9s, 4.7MB. Procedure documented in `essays/RENDER_CHECKLIST.md` (pause-snap at render; trim srt trailing room-tone; chant stays out). Proof mp3 is tiny (4.7M) so it IS committed — big renders stay local.
+- B/C render = same engine on the union clip list; nothing new to build.
+
+### 11e. Git / parallel-agent protocol
+- Another agent committed 7 commits to the same repo mid-session (primary-lit fetches, lit reviews, mark-voice pairings). Push rejected (non-fast-forward). Do: `git fetch` → inspect `main..origin/main` → `git pull --rebase` (clean here) → re-run verbatim audit AFTER rebase → push. Never force-push; never assume your working tree is authoritative. Post-rebase audit caught my own dict bug, not their edits (their "2 verbatim fixes" commit was fine — empty diff on the file I feared).
+- Repo now PUBLIC: prx0r/tantraessays. Secrets never staged (token pastes in chat → treated compromised, never echoed/stored; .env 0600 only).
+
+### 11f. Imports — stallshark/source-library R2 (use creds from figgsite/.env, never echo)
+- Book: `A Journey in the World of the Tantras` (Dyczkowski, 316pp ABBYY) from stallshark bucket → `primary/books/` (5.9M). TOC→essay map in INVENTORY (ch2→E06, ch3→E06/E03, ch4-6 Kubjika/geography→E09/E10/E11). `.gitignore`: `primary/books/`, `*.pdf`.
+- Texts: 14 files from `source-library/tantra/texts-clean/` → `primary/texts/` (18M, gitignored via `primary/texts/`): Tantraloka vol1-11, spandakarika, aphorisms-of-siva, doctrine-of-vibration (Dyczkowski's own translations). Also in R2 (not downloaded): tantrasara Sanskrit etc. per lit reviews.
+- USED — [V] short-quotes with exact locators banked into 9 essays' PRIMARY_LIT (format: `[V] <book/locator>: "<short quote>"` + cite Dyczkowski/SUNY/MB + buy link + "local-only, never commit"):
+  - E03: TL vol2 v197cd 81-parts + double-locator note (Mark site says TL6.228 — keep BOTH, don't merge).
+  - E04: TL vol1 prārabdha "left intact…Otherwise he would die" + vol2 prārabdha/videhamukti/jīvanmukti single passage (roots vyoma-07 AND vyoma-02).
+  - E06: TL vol1 upāya-structure line (Mark's lecture wording) + anupāya light-bliss descent.
+  - E07: TL vol11 App E ch32 v657 meat/wine + cremation ground (Kula fundamentals, links E11).
+  - E08: Spanda pulse definition + Utpaladeva ghurni verse + five signs + DV waves-on-sea.
+  - E09: DV sakticakra wheel + Spanda "wave (urmi) of the ocean".
+  - E11: Shiva Sutras 1.1/2.1/3.1 "Consciousness is the Self." / "The mind is Mantra." / "The mind is the Self."
+  - E05 + E12: checked SILENT in shelf (no Triṃśikā/sauḥ-bīja, no Śivastotravali) — recorded as [S], do NOT invent; other-box stays.
+- Bucket listing method: boto3 path-style S3 against R2 endpoint, creds from .env (STALLSHARK_*), `list_objects_v2` paginator, regex on Key. Buckets of note: stallshark, source-library (tantra/ tree), tantraloka-site (vol dups).
+
+## 12. Current state (supersedes §8/§10 as of session-2 end)
+- 12/12 essays: full A+B+C, all quotes verbatim (122/122), all A timestamps exact srt spans, EXTRACTS.md (per-quote windows, ~97m total), handoffs 01→12 wired, cuts lists written, PLAIN lines key-checked (no Sanskrit spoken).
+- Render: Essay 2 proof mp3 done; checklist ported; B/C render = same concat on union lists.
+- Primary: E01 PD full, E02 RV 10.10 (parallel commit), E03/E04/E06/E07/E08/E09/E11 [V] banked from local Dyczkowski texts, E05/E12 [S] honest. Parallel agent's lit reviews (Wallis/MVUT/KJnN) in per-essay PRIMARY_LIT.
+- Still open: (1) record Human cold-opens/bridges + TTS key-voice (paper-ready in SPEAKERS.md, ~2-3m/essay); (2) full B/C renders (engine proven); (3) Chandogya sun-door + goldsmith full stanza PD pull; (4) E05 Triṃśikā + E12 Śivastotravali from other box; (5) 60m+ full-length render pass once voice exists.
+- Repro after any edit: `python3 /tmp`-style audit (normalize both sides, AUDIO-basename dict) must read 122/122 or your edit broke verbatim; `grep -c '^### ' excavations/*.md` = 146; grades A25/B55/C66; `git ls-files primary/texts primary/books` = 0.
